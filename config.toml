@@ -1,4 +1,4 @@
-baseurl = "https://algo.ulb.ac.be/"
+baseurl = "http://algo.ulb.be/"
 title = "ALGO"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
