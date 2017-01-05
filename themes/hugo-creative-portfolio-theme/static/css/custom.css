@@ -1,1 +1,5 @@
 /* your styles go here */
+
+.carousel-inner > .item > a > img, .carousel-inner > .item > img, .img-responsive, .thumbnail a > img, .thumbnail > img {
+  width: 100%;
+}
