@@ -11,7 +11,7 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "blue"
-  description = "Describe your website"
+  description = "Website for the algo group @ ULB."
   copyright = ""
   sidebarAbout = [
     """<img src="/img/delaunay.png" alt="" class="img-responsive">""",

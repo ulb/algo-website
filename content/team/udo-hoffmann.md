@@ -12,10 +12,10 @@ Postdoc
 
 ![This is me][1]
 
-* **Keywords**: Visibility graphs, realisability.
+* **Keywords**: Combinatorial geometry
 * **Office**: 2.O8.214
 * **E-mail**: [udo.hoffmann@ulb.ac.be](mailto:udo.hoffmann@ulb.ac.be)
-<!--* [Web page](http://cgm.cs.mcgill.ca/~sl)-->
+* [Web page](https://udohoffmann.bitbucket.io)
 
 
 [1]: /img/people/udo-hoffmann.jpg
