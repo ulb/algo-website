@@ -14,7 +14,7 @@ Visiting professor (Maître de Conférence) at ULB. Consultant at Synapsis.
 
 * **Keywords**: Computational geometry, data structures.
 * **E-mail**: [sebastien.collette@ulb.ac.be](mailto:sebastien.collette@ulb.ac.be)
-* [Web page](http://www.scollette.com)
+* [Web page](http://www.ulb.ac.be/di/algo/secollet)
 
 
 [1]: /img/people/sebastien-collette.jpg
