@@ -1,0 +1,203 @@
+baseurl: http://algo.ulb.be/
+title: ALGO
+theme: hugo-creative-portfolio-theme
+languageCode: en-us
+# Enable comments by entering your Disqus shortname
+#disqusShortname:
+# Enable Google Analytics by entering your tracking code
+#googleAnalytics:
+
+params:
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style: blue
+  description: Website for the algo group @ ULB.
+  #copyright:
+  sidebarAbout:
+    - >
+      <b>Algorithms Research Group</b><br>
+      <a href="http://www.ulb.ac.be/facs/sciences/info/index-en.html">Computer Science Department</a><br>
+      <a href="http://www.ulb.ac.be">Université libre de Bruxelles (ULB)</a><br>
+      Campus de la Plaine, CP 212<br>
+      B-1050 Brussels, Belgium<br>
+    - >
+        <img src="img/delaunay.png" alt="" class="img-responsive">
+    - >
+      Keywords: Discrete and computational geometry,
+      algorithmic and structural graph theory,
+      combinatorial optimization, data structures.
+    - >
+      Currently funded research projects:
+      EUROCORES EuroGIGA <a href="http://eurogiga-compose.eu/about.php">ComPoSe</a> and
+      <a href="http://eurogiga.inf.fu-berlin.de/w/VORONOI/">VORONOI</a>,
+      and ARC <a href="http://www.ulb.ac.be/recherche/presentation/fr-arccerf.html">COPHYMA</a>.
+
+  # Contact page
+  # Since this template is static, the contact form uses www.formspree.io as a
+  # proxy. The form makes a POST request to their servers to send the actual
+  # email. Visitors can send up to a 1000 emails each month for free.
+  #
+  # What you need to do for the setup?
+  #
+  # - set your email address under 'email' below
+  # - upload the generated site to your server
+  # - send a dummy email yourself to confirm your account
+  # - click the confirm link in the email from www.formspree.io
+  # - you're done. Happy mailing!
+  #email:
+
+  #navlinks:
+    # Nav links in the side bar
+    #- name: "The team"
+    #  url: ""
+
+    #- name: "About the group"
+    #  url: "about/"
+
+    #- name: "Get in touch"
+    #  url: "contact/"
+
+  #social:
+    #facebook:
+    #googleplus:
+    #email:
+    #twitter:
+    #linkedin:
+    #stackoverflow:
+    #instagram:
+    #github:
+
+  team:
+
+    # Permanent staff
+
+    - name: Jean Cardinal
+      image: img/team/jean-cardinal.jpg
+      webpage: http://www.ulb.ac.be/di/algo/jcardin
+      description: Associate Professor
+      keywords: Discrete and computational geometry, graphs, information theory.
+      office: 2.O8.112
+      phone: 02/650.5608
+      email: jcardin@ulb.ac.be
+
+    - name: Samuel Fiorini
+      image: img/team/samuel-fiorini.jpg
+      webpage: http://homepages.ulb.ac.be/~sfiorini
+      description: Professor (Math Department)
+      keywords: Combinatorial optimization, polyhedral combinatorics, graph theory.
+      email: sfiorini@ulb.ac.be
+
+    - name: Gwenaël Joret
+      image: img/team/gwenael-joret.jpg
+      webpage: http://www.ulb.ac.be/di/algo/gjoret
+      description: Assistant Professor
+      keywords: Graph theory, combinatorial optimization, approximation algorithms.
+      office: 2.O8.111
+      phone: 02/650.5759
+      email: gjoret@ulb.ac.be
+
+    - name: Stefan Langerman
+      image: img/team/stefan-langerman.jpg
+      webpage: http://cgm.cs.mcgill.ca/~sl
+      description: Directeur de recherches (FNRS Senior Research Associate)
+      keywords: Computational geometry, data structures.
+      office: 2.O8.113
+      phone: 02/650.5928
+      email: stefan.langerman@ulb.ac.be
+
+    - name: Guy Louchard
+      image: img/team/guy-louchard.jpg
+      webpage: http://www.ulb.ac.be/di/mcs/louchard
+      description: I am now retired so I can devote (almost) all my time to research.
+      keywords: Probabilistic techniques
+      office: 2.N8.206
+      phone: 02/650.5613
+      email: louchard@ulb.ac.be
+
+    # Postdocs
+
+    - name: Udo Hoffmann
+      image: img/team/udo-hoffmann.jpg
+      webpage: https://udohoffmann.bitbucket.io
+      description: Postdoc
+      keywords: Combinatorial geometry
+      office: 2.O8.214
+      email: udo.hoffmann@ulb.ac.be
+
+    - name: Elena Khramtcova
+      image: img/team/elena-khramtcova.jpg
+      webpage:
+      description: Postdoc
+      keywords: Voronoi diagrams.
+      office: 2.O8.214
+      email: elena.khramtcova@ulb.ac.be
+
+    - name: Irina Kostitsyna
+      image: img/team/irina-kostitsyna.jpg
+      webpage: http://homepages.ulb.ac.be/~ikostits
+      description: Postdoc
+      keywords: Routing.
+      office: 2.O8.114
+      email: irina.kostitsyna@ulb.ac.be
+
+    # PhD students
+
+    - name: Keno Merckx
+      image: img/team/keno-merckx.jpg
+      webpage: http://homepages.ulb.ac.be/~kmerckx
+      description: PhD student
+      keywords: Graphs
+      email: kmerckx@ulb.ac.be
+
+    - name: Aurélien Ooms
+      description: PhD student
+      image: img/team/aurelien-ooms.jpg
+      webpage: http://homepages.ulb.ac.be/~aureooms
+      keywords: Complexity in P
+      office: 2.O8.114
+      email: aureooms@ulb.ac.be
+
+    # External members
+
+    - name: Sébastien Collette
+      image: img/team/sebastien-collette.jpg
+      webpage: http://www.ulb.ac.be/di/algo/secollet
+      description: Visiting professor (Maître de Conférence) at ULB. Consultant at Synapsis.
+      keywords: Computational geometry, data structures.
+      email: sebastien.collette@ulb.ac.be
+
+    - name: John Iacono
+      image: img/team/john-iacono.jpg
+      webpage: http://johniacono.com
+      description: Permanent visitor
+      keywords: Stuff.
+      office: 2.O8.???
+      email: ulb@johniacono.com
+
+  alumni:
+
+    - name: Greg Aloupis
+      description: Chargé de recherches du FNRS (FNRS Postdoctoral Researcher)
+      keywords:  Computational geometry
+      email: aloupis.greg@gmail.com
+
+    - name: Marcin Kaminski
+      description: Chargé de recherches du FNRS (FNRS Postdoctoral Researcher)
+      keywords: Graph theory, Algorithms.
+      email: Marcin.Kaminski@ulb.ac.be
+
+    - name: Pegah Kamousi
+      keywords: Probabilistic Optimization, Computational Geometry
+      email: pegahk@gmail.com
+
+    - name: Maria Saumell
+      keywords:  Computational Geometry
+      email: maria.saumell.m@gmail.com
+
+    - name: Luca Castelli-Aleardi
+
+    - name: Nathann Cohen
+
+    - name: Raphael Jungers
+
+    - name: Perouz Taslakian
