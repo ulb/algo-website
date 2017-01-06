@@ -1,5 +1,5 @@
 baseurl: http://algo.ulb.be/
-title: ALGO
+title: ALGO.ULB.BE
 theme: hugo-creative-portfolio-theme
 languageCode: en-us
 # Enable comments by entering your Disqus shortname
@@ -15,8 +15,9 @@ params:
   #copyright:
   sidebarAbout:
     - >
-      <b>Algorithms Research Group</b><br>
+      <b><a href="http://algo.ulb.be">Algorithms Research Group</a></b><br>
       <a href="http://www.ulb.ac.be/facs/sciences/info/index-en.html">Computer Science Department</a><br>
+      <a href="http://www.ulb.ac.be/facs/sciences">Faculté des Sciences</a><br>
       <a href="http://www.ulb.ac.be">Université libre de Bruxelles (ULB)</a><br>
       Campus de la Plaine, CP 212<br>
       B-1050 Brussels, Belgium<br>
