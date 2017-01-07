@@ -22,7 +22,7 @@ params:
       Campus de la Plaine, CP 212<br>
       B-1050 Brussels, Belgium<br>
     - >
-        <img src="img/delaunay.png" alt="" class="img-responsive">
+        <img src="/img/delaunay.png" alt="" class="img-responsive">
     - >
       Keywords: Discrete and computational geometry,
       algorithmic and structural graph theory,
@@ -47,13 +47,13 @@ params:
   # - you're done. Happy mailing!
   #email:
 
-  #navlinks:
+  navlinks:
     # Nav links in the side bar
-    #- name: "The team"
-    #  url: ""
+    - name: "The team"
+      url: ""
 
-    #- name: "About the group"
-    #  url: "about/"
+    - name: "Alumni"
+      url: "alumni/"
 
     #- name: "Get in touch"
     #  url: "contact/"
@@ -177,28 +177,76 @@ params:
 
   alumni:
 
+    - name: Andrew Winslow
+      description: Former Postdoc
+      webpage: http://andrewwinslow.com
+      email: andrew.winslow+ulb@gmail.com
+      image: img/alumni/andrew-winslow.png
+      keywords: Algorithmic self-assembly, computational geometry
+
+    - name: Luis Barba
+      description: Former PhD student
+      webpage: http://cglab.ca/~lfbarba
+      email: luis.barba@inf.ethz.ch
+      image: img/alumni/luis-barba.jpg
+
+    - name: Vissarion Fisikopoulos
+      description: Former Postdoc
+      image: img/alumni/vissarion-fisikopoulos.jpg
+      webpage: https://vissarion.github.io
+      keywords: Discrete geometry, polyhedral combinatorics
+      email: vissarion.fysikopoulos@oracle.com
+
+    - name: Eglantine Camby
+      description: Former PhD student
+      webpage: http://homepages.ulb.ac.be/~ecamby
+      email: Eglantine.Camby@ulb.ac.be
+      image: img/alumni/eglantine-camby.png
+
+    - name: Michael Payne
+      description: Former Postdoc
+      webpage: http://www.ms.unimelb.edu.au/~mspayne
+      email: mpayne@ulb.ac.be
+      keywords: Discrete geometry, geometric graph theory.
+      image: img/alumni/michael-payne.jpg
+
     - name: Greg Aloupis
       description: Chargé de recherches du FNRS (FNRS Postdoctoral Researcher)
       keywords:  Computational geometry
       email: aloupis.greg@gmail.com
+      image: img/alumni/greg-aloupis.jpg
+      webpage: http://cg.scs.carleton.ca/~greg
 
     - name: Marcin Kaminski
       description: Chargé de recherches du FNRS (FNRS Postdoctoral Researcher)
       keywords: Graph theory, Algorithms.
       email: Marcin.Kaminski@ulb.ac.be
+      image: img/alumni/marcin-kaminski.jpg
+      webpage: http://rutcor.rutgers.edu/~mkaminski
 
     - name: Pegah Kamousi
       keywords: Probabilistic Optimization, Computational Geometry
       email: pegahk@gmail.com
+      image: img/alumni/pegah-kamousi.jpg
 
     - name: Maria Saumell
-      keywords:  Computational Geometry
+      keywords: Computational Geometry
       email: maria.saumell.m@gmail.com
+      image: img/alumni/maria-saumell.jpg
+      webpage: http://home.zcu.cz/~saumell
 
     - name: Luca Castelli-Aleardi
+      image: img/alumni/luca-castelli-aleardi.jpg
+      webpage: http://www.lix.polytechnique.fr/~amturing
 
     - name: Nathann Cohen
+      image: img/alumni/nathann-cohen.jpg
+      webpage: http://steinertriples.fr/ncohen
 
     - name: Raphael Jungers
+      image: img/alumni/raphael-jungers.jpg
+      webpage: http://perso.uclouvain.be/raphael.jungers
 
     - name: Perouz Taslakian
+      image: img/alumni/perouz-taslakian.jpg
+      webpage: http://homepages.ulb.ac.be/~ptaslaki
