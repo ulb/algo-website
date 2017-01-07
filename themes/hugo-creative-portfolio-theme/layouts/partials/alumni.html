@@ -3,40 +3,7 @@
     <div class="grid">
         <div class="row">
           {{ range .Site.Params.alumni }}
-              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
-                  <div class="box-masonry">
-                      {{ if .image }}
-                      {{ if .webpage }}
-                        <a href="{{ .webpage }}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
-                            <img src="/{{ .image }}" alt="" class="img-responsive">
-                        </a>
-                      {{ else }}
-                        <img src="/{{ .image }}" alt="" class="img-responsive">
-                      {{ end }}
-                      {{ end }}
-                      <div class="box-masonry-text">
-                          {{ if .webpage }}
-                              <h4><a href="{{ .webpage }}">{{ .name }}</a></h4>
-                          {{ else }}
-                              <h4>{{ .name }}</h4>
-                          {{ end }}
-                          <div class="box-masonry-description">
-                              <p>
-                              {{ .description }}<br><br>
-                              {{ with .keywords }}
-                                  <b>Keywords:</b> {{ . }}<br>
-                              {{ end }}
-                              {{ with .office }}
-                                  <b>Office:</b> {{ . }}<br>
-                              {{ end }}
-                              {{ with .email }}
-                                  <b>E-mail:</b> <a href="mailto:{{ . }}">{{ . }}</a><br>
-                              {{ end }}
-                              </p>
-                          </div>
-                      </div>
-                  </div>
-              </div>
+            {{ partial "member.html" . }}
           {{ end }}
         </div>
     </div>

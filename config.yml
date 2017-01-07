@@ -178,27 +178,48 @@ params:
   alumni:
 
     - name: Andrew Winslow
-      description: Former Postdoc
+      description: >
+        Assistant Professor at the [Computer Science
+        Department](http://www.utrgv.edu/csci) at the [University of Texas Rio
+        Grande Valley](http://www.utrgv.edu). Former Postdoc.
       webpage: http://andrewwinslow.com
       email: andrew.winslow+ulb@gmail.com
       image: img/alumni/andrew-winslow.png
       keywords: Algorithmic self-assembly, computational geometry
 
     - name: Luis Barba
-      description: Former PhD student
+      description: >
+        Postdoc at [ETH Zürich](https://www.ethz.ch/en.html), Switzerland,
+        working in the group of [Professor Emo
+        Welzl](https://www.inf.ethz.ch/personal/emo).
+        Former PhD student.
       webpage: http://cglab.ca/~lfbarba
       email: luis.barba@inf.ethz.ch
       image: img/alumni/luis-barba.jpg
 
     - name: Vissarion Fisikopoulos
-      description: Former Postdoc
+      description: >
+        Senior software engineer at [Oracle](https://www.oracle.com), working on development of
+        geometric algorithms for GIS in
+        [Boost.Geometry](http://www.boost.org/doc/libs/1_62_0/libs/geometry/doc/html/index.html)
+        to support [MySQL](https://www.mysql.com). Former Postdoc.
       image: img/alumni/vissarion-fisikopoulos.jpg
       webpage: https://vissarion.github.io
       keywords: Discrete geometry, polyhedral combinatorics
       email: vissarion.fysikopoulos@oracle.com
 
     - name: Eglantine Camby
-      description: Former PhD student
+      description: >
+        Junior researcher as a postdoc from the
+        [Computer Science Department](http://www.ulb.ac.be/facs/sciences/info)
+        at the [Université libre de
+        Bruxelles (ULB)](http://www.ulb.ac.be) in Belgium, under the supervision
+        of [Martine Labbé](http://homepages.ulb.ac.be/~mlabbe).
+        Currently, one-year visitor in [HEC
+        Montréal](http://www.hec.ca) and [GERAD](https://www.gerad.ca/fr), in Canada,
+        under the supervision of
+        [Gilles Caporossi](http://www.hec.ca/profs/gilles.caporossi.html).
+        Former PhD student.
       webpage: http://homepages.ulb.ac.be/~ecamby
       email: Eglantine.Camby@ulb.ac.be
       image: img/alumni/eglantine-camby.png
@@ -211,14 +232,14 @@ params:
       image: img/alumni/michael-payne.jpg
 
     - name: Greg Aloupis
-      description: Chargé de recherches du FNRS (FNRS Postdoctoral Researcher)
+      description: Chargé de recherches du FNRS (FNRS Postdoctoral Researcher).
       keywords:  Computational geometry
       email: aloupis.greg@gmail.com
       image: img/alumni/greg-aloupis.jpg
       webpage: http://cg.scs.carleton.ca/~greg
 
     - name: Marcin Kaminski
-      description: Chargé de recherches du FNRS (FNRS Postdoctoral Researcher)
+      description: Chargé de recherches du FNRS (FNRS Postdoctoral Researcher).
       keywords: Graph theory, Algorithms.
       email: Marcin.Kaminski@ulb.ac.be
       image: img/alumni/marcin-kaminski.jpg
@@ -228,6 +249,7 @@ params:
       keywords: Probabilistic Optimization, Computational Geometry
       email: pegahk@gmail.com
       image: img/alumni/pegah-kamousi.jpg
+      description: Former Postdoc
 
     - name: Maria Saumell
       keywords: Computational Geometry
