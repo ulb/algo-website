@@ -1,10 +1,10 @@
-/* 
-========================================= 
-========================================= 
+/*
+=========================================
+=========================================
 
 Startup Template By Bootstrapious.com
 
-========================================= 
+=========================================
 ========================================= */
 /* variant 5 - blue */
 /*
@@ -2133,4 +2133,44 @@ a.list-group-item.active > .badge,
 }
 .nav-pills > li > a > .badge {
   margin-left: 3px;
+}
+
+/*custom*/
+.small-navbar-menu {
+  width: 100%;
+  position: absolute;
+  top:0;
+  left:0;
+  list-style-type: none;
+  /*padding-left: 20px;*/
+  margin-bottom: 20px;
+  background-color: #2065a1;
+}
+.small-navbar-menu li {
+  display: inline-block;
+  padding: 20px;
+  font-size: 1.1em;
+}
+.small-navbar-menu li a {
+  color: #ccc;
+}
+/*.small-navbar-menu li:before {*/
+  /*font-family: 'FontAwesome';*/
+  /*content: '\f105';*/
+  /*margin: 0 5px 0 -15px;*/
+  /*color: #ccc;*/
+/*}*/
+.small-navbar-menu li.active a {
+  color: #ffffff;
+  font-weight: bold;
+}
+.small-navbar-menu li.active:before {
+  color: #ffffff;
+}
+.small-navbar-menu li:hover a {
+  text-decoration: none;
+  color: #ffffff;
+}
+.small-navbar-menu li:hover:before {
+  color: #ffffff;
 }
