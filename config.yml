@@ -161,7 +161,7 @@ params:
       description: PhD student
       image: img/team/aurelien-ooms.jpg
       webpage: http://homepages.ulb.ac.be/~aureooms
-      keywords: Complexity in P
+      keywords: "Computational Complexity: Data Structures, Algorithms, Computational Geometry."
       office: 2.O8.114
       email: aureooms@ulb.ac.be
 
