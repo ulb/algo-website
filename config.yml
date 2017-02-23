@@ -148,6 +148,14 @@ params:
       office: 2.O8.114
       email: irina.kostitsyna@ulb.ac.be
 
+    - name: Tillmann Miltzow
+      image: img/team/tillmann-miltzow.jpg
+      webpage: https://sites.google.com/site/tillshome
+      description: Postdoc
+      keywords: Computational geometry.
+      office: 2.O8.214
+      email: t.miltzow@googlemail.com
+
     # PhD students
 
     - name: Keno Merckx
