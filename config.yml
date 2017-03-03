@@ -7,6 +7,10 @@ languageCode: en-us
 # Enable Google Analytics by entering your tracking code
 #googleAnalytics:
 
+sitemap:
+  changefreq: monthly
+  priority: 1
+
 params:
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
