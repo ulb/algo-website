@@ -138,7 +138,7 @@ params:
 
     - name: Elena Khramtcova
       image: img/team/elena-khramtcova.jpg
-      webpage:
+      webpage: http://homepages.ulb.ac.be/~ekhramtc
       description: Postdoc
       keywords: Computational Geometry, Algorithms, Data Structures, Voronoi diagrams.
       office: 2.O8.214
