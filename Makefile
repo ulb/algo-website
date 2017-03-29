@@ -9,6 +9,7 @@ build: public
 
 public: config.yml $(THEMES) $(STATIC) $(CONTENT)
 	hugo
+	sed 's:<priority>0</priority>:<priority>1</priority>:g' public/sitemap.xml -i
 
 upload:
 	rm -rf public_html
