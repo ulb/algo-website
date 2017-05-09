@@ -1,17 +1,27 @@
 # algo-website
 Website for the algo group @ ULB
 
-Build
+##### Add yourself
+
+ 1. Add your details to
+[the config file](https://github.com/aureooms-ulb/algo-website/blob/master/config.yml).
+
+ 2. Add your picture to
+[team](https://github.com/aureooms-ulb/algo-website/tree/master/static/img/team)
+or
+[alumni](https://github.com/aureooms-ulb/algo-website/tree/master/static/img/alumni).
+
+##### Build
 ```console
 hugo
 ```
 
-Serve locally
+##### Serve locally
 ```console
 hugo server
 ```
 
-Upload
+##### Upload
 ```console
 rm -r public_html
 mv public{,_html}
