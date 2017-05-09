@@ -291,3 +291,7 @@ params:
     - name: Perouz Taslakian
       image: img/alumni/perouz-taslakian.jpg
       webpage: http://homepages.ulb.ac.be/~ptaslaki
+      
+    - name: Karim Douïeb
+      image: img/alumni/karim-douieb.jpg
+      webpage: http://www.ulb.ac.be/di/algo/kdouieb/
