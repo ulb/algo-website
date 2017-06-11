@@ -257,6 +257,19 @@ params:
       image: img/alumni/greg-aloupis.jpg
       webpage: http://cg.scs.carleton.ca/~greg
 
+    - name: Matias Korman
+      description: >
+        Assistant professor at
+        [Tokuyama Laboratory](http://www.dais.is.tohoku.ac.jp/index_e.html)
+        within [Tohoku University](http://www.tohoku.ac.jp/en).
+      keywords: >
+        Geometric shortest path planning,
+        Memory constrained algorithms,
+        Battery management in ad-hoc networks.
+      email: mati@dais.is.tohoku.ac.jp
+      image: img/alumni/matias-korman.png
+      webpage: http://www.dais.is.tohoku.ac.jp/~mati
+
     - name: Marcin Kaminski
       description: Chargé de recherches du FNRS (FNRS Postdoctoral Researcher).
       keywords: Graph theory, Algorithms.
