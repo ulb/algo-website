@@ -158,7 +158,7 @@ params:
       image: img/team/aurelien-ooms.jpg
       webpage: http://homepages.ulb.ac.be/~aureooms
       keywords: "Computational Complexity: Data Structures, Algorithms, Computational Geometry."
-      office: 2.O8.114
+      office: 2.O8.214
       email: aureooms@ulb.ac.be
 
     # External members
@@ -175,7 +175,7 @@ params:
       webpage: http://johniacono.com
       description: Permanent visitor
       keywords: Data structures, computational geometry.
-      office: 2.O8.113
+      office: 2.O8.114
       email: ulb@johniacono.com
 
   alumni:
