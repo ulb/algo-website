@@ -128,14 +128,6 @@ params:
 
     # Postdocs
 
-    - name: Udo Hoffmann
-      image: img/team/udo-hoffmann.jpg
-      webpage: https://udohoffmann.bitbucket.io
-      description: Postdoc
-      keywords: Combinatorial geometry.
-      office: 2.O8.214
-      email: udo.hoffmann@ulb.ac.be
-
     - name: Elena Khramtcova
       image: img/team/elena-khramtcova.jpg
       webpage: http://homepages.ulb.ac.be/~ekhramtc
@@ -143,14 +135,6 @@ params:
       keywords: Computational Geometry, Algorithms, Data Structures, Voronoi diagrams.
       office: 2.O8.214
       email: elena.khramtcova@ulb.ac.be
-
-    - name: Irina Kostitsyna
-      image: img/team/irina-kostitsyna.jpg
-      webpage: http://homepages.ulb.ac.be/~ikostits
-      description: Postdoc
-      keywords: "Computational Geometry: Polygons."
-      office: 2.O8.114
-      email: irina.kostitsyna@ulb.ac.be
 
     - name: Tillmann Miltzow
       image: img/team/tillmann-miltzow.jpg
@@ -195,6 +179,19 @@ params:
       email: ulb@johniacono.com
 
   alumni:
+
+    - name: Udo Hoffmann
+      image: img/team/udo-hoffmann.jpg
+      webpage: https://udohoffmann.bitbucket.io
+      keywords: Combinatorial geometry.
+      email: udo.hoffmann@ulb.ac.be
+
+
+    - name: Irina Kostitsyna
+      image: img/team/irina-kostitsyna.jpg
+      webpage: http://homepages.ulb.ac.be/~ikostits
+      keywords: "Computational Geometry: Polygons."
+      email: irina.kostitsyna@ulb.ac.be
 
     - name: Andrew Winslow
       description: >
