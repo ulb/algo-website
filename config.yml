@@ -126,6 +126,14 @@ params:
       phone: 02/650.5613
       email: louchard@ulb.ac.be
 
+    - name: John Iacono
+      image: img/team/john-iacono.jpg
+      webpage: http://johniacono.com
+      description: Professor
+      keywords: Data structures, computational geometry.
+      office: 2.O8.114
+      email: ulb@johniacono.com
+
     # Postdocs
 
     - name: Elena Khramtcova
@@ -169,14 +177,6 @@ params:
       description: Visiting professor (Maître de Conférence) at ULB. Consultant at Synapsis.
       keywords: Computational geometry, data structures.
       email: sebastien.collette@ulb.ac.be
-
-    - name: John Iacono
-      image: img/team/john-iacono.jpg
-      webpage: http://johniacono.com
-      description: Permanent visitor
-      keywords: Data structures, computational geometry.
-      office: 2.O8.114
-      email: ulb@johniacono.com
 
   alumni:
 
