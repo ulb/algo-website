@@ -178,6 +178,12 @@ params:
       keywords: Computational geometry, data structures.
       email: sebastien.collette@ulb.ac.be
 
+    # Future members
+
+    - name: Varunkumar Jayapaul
+      description: Future postdoc
+      image: img/team/varunkumar-jayapaul.jpg
+
   alumni:
 
     - name: Udo Hoffmann
