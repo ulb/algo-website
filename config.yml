@@ -86,7 +86,7 @@ params:
     - name: Jean Cardinal
       image: img/team/jean-cardinal.jpg
       webpage: http://www.ulb.ac.be/di/algo/jcardin
-      description: Associate Professor
+      description: Professor
       keywords: Discrete and computational geometry, graphs, information theory.
       office: 2.O8.112
       phone: 02/650.5608
