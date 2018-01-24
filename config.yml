@@ -144,13 +144,10 @@ params:
       office: 2.O8.214
       email: elena.khramtcova@ulb.ac.be
 
-    - name: Tillmann Miltzow
-      image: img/team/tillmann-miltzow.jpg
-      webpage: https://sites.google.com/site/tillshome
+    - name: Varunkumar Jayapaul
       description: Postdoc
-      keywords: Computational geometry.
-      office: 2.O8.214
-      email: t.miltzow@googlemail.com
+      image: img/team/varunkumar-jayapaul.jpg
+      email: varunkumarj@gmail.com
 
     # PhD students
 
@@ -178,24 +175,26 @@ params:
       keywords: Computational geometry, data structures.
       email: sebastien.collette@ulb.ac.be
 
-    # Future members
-
-    - name: Varunkumar Jayapaul
-      description: Future postdoc
-      image: img/team/varunkumar-jayapaul.jpg
-
   alumni:
+
+    - name: Tillmann Miltzow
+      image: img/team/tillmann-miltzow.jpg
+      webpage: https://sites.google.com/site/tillshome
+      description: Former Postdoc
+      keywords: Computational geometry.
+      email: t.miltzow@googlemail.com
 
     - name: Udo Hoffmann
       image: img/team/udo-hoffmann.jpg
       webpage: https://udohoffmann.bitbucket.io
+      description: Former Postdoc
       keywords: Combinatorial geometry.
       email: udo.hoffmann@ulb.ac.be
-
 
     - name: Irina Kostitsyna
       image: img/team/irina-kostitsyna.jpg
       webpage: http://homepages.ulb.ac.be/~ikostits
+      description: Former Postdoc
       keywords: "Computational Geometry: Polygons."
       email: irina.kostitsyna@ulb.ac.be
 
