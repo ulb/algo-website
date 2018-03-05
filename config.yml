@@ -150,6 +150,11 @@ params:
       office: 2.O8.214
       email: varunkumarj@gmail.com
 
+    - name: Suman Bala
+      description: Postdoc (Algo & QualSec)
+      image: img/team/suman-bala.png
+      email: suman1005@gmail.com
+
     # PhD students
 
     - name: Keno Merckx
