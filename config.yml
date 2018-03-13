@@ -155,6 +155,33 @@ params:
       image: img/team/suman-bala.png
       email: suman1005@gmail.com
 
+    - name: Grigorios Koumoutsos
+      description: Future Postdoc
+      image: img/team/grigorios-koumoutsos.jpg
+      webpage: https://www.win.tue.nl/~gkoumout
+
+    - name: Ben Karsin
+      description: Future Postdoc
+      image: img/team/ben-karsin.jpg
+      webpage: https://benkarsin.com
+
+    - name: Tillmann Miltzow
+      image: img/team/tillmann-miltzow.jpg
+      webpage: https://sites.google.com/site/tillshome
+      description: Postdoc (Math Department)
+      keywords: Computational geometry.
+      email: t.miltzow@googlemail.com
+
+    - name: Tony Huynh
+      description: Postdoc (Math Department)
+      image: img/team/tillmann-miltzow.jpg
+      webpage: https://sites.google.com/site/matroidintersection
+
+    - name: Krystal Guo
+      description: Postdoc (Math Department)
+      image: img/team/krystal-guo.jpg
+      webpage: https://simons.berkeley.edu/people/krystal-guo
+
     # PhD students
 
     - name: Keno Merckx
@@ -172,6 +199,11 @@ params:
       office: 2.O8.214
       email: aureooms@ulb.ac.be
 
+    - name: Marco Macchia
+      description: PhD student (Math Department)
+      image: img/team/marco-macchia.jpg
+      webpage: http://homepages.ulb.ac.be/~mmacchia
+
     # External members
 
     - name: Sébastien Collette
@@ -182,13 +214,6 @@ params:
       email: sebastien.collette@ulb.ac.be
 
   alumni:
-
-    - name: Tillmann Miltzow
-      image: img/team/tillmann-miltzow.jpg
-      webpage: https://sites.google.com/site/tillshome
-      description: Former Postdoc
-      keywords: Computational geometry.
-      email: t.miltzow@googlemail.com
 
     - name: Udo Hoffmann
       image: img/team/udo-hoffmann.jpg
