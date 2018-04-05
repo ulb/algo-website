@@ -155,6 +155,15 @@ params:
       image: /img/team/suman-bala.png
       email: suman1005@gmail.com
 
+    - name: Wouter Cames van Batenburg
+      image: https://www.math.ru.nl/~woutercvb/wouter_compr.jpg
+      webpage: https://www.math.ru.nl/~woutercvb
+      description: Postdoc
+      keywords: >
+        percolation theory, coloring problems, extremal combinatorics,
+        high-dimensional percolation, Last Passage Percolation,
+        coloring and packing of graphs.
+
     - name: Grigorios Koumoutsos
       description: Future Postdoc
       image: /img/team/grigorios-koumoutsos.jpg
@@ -203,6 +212,15 @@ params:
       description: PhD student (Math Department)
       image: /img/team/marco-macchia.jpg
       webpage: http://homepages.ulb.ac.be/~mmacchia
+
+    - name: Carole Muller
+      description: PhD student (Math Department)
+      image: http://student.ulb.ac.be/~camuller/images/Carole_Muller.png
+      webpage: http://student.ulb.ac.be/~camuller
+
+    - name: Matthew Drescher
+      description: PhD student (Math Department)
+      image: https://i.ytimg.com/vi/U9sR024xM_0/maxresdefault.jpg
 
     # External members
 
