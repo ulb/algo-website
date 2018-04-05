@@ -84,7 +84,7 @@ params:
     # Permanent staff
 
     - name: Jean Cardinal
-      image: img/team/jean-cardinal.jpg
+      image: /img/team/jean-cardinal.jpg
       webpage: http://www.ulb.ac.be/di/algo/jcardin
       description: Professor
       keywords: Discrete and computational geometry, graphs, information theory.
@@ -93,14 +93,14 @@ params:
       email: jcardin@ulb.ac.be
 
     - name: Samuel Fiorini
-      image: img/team/samuel-fiorini.jpg
+      image: /img/team/samuel-fiorini.jpg
       webpage: http://homepages.ulb.ac.be/~sfiorini
       description: Professor (Math Department)
       keywords: Combinatorial optimization, polyhedral combinatorics, graph theory.
       email: sfiorini@ulb.ac.be
 
     - name: Gwenaël Joret
-      image: img/team/gwenael-joret.jpg
+      image: /img/team/gwenael-joret.jpg
       webpage: http://www.ulb.ac.be/di/algo/gjoret
       description: Assistant Professor
       keywords: Graph theory, combinatorial optimization, approximation algorithms.
@@ -109,7 +109,7 @@ params:
       email: gjoret@ulb.ac.be
 
     - name: Stefan Langerman
-      image: img/team/stefan-langerman.jpg
+      image: /img/team/stefan-langerman.jpg
       webpage: https://algo.ulb.be/sl
       description: Directeur de recherches (FNRS Research Director)
       keywords: Computational geometry, data structures.
@@ -118,7 +118,7 @@ params:
       email: stefan.langerman@ulb.ac.be
 
     - name: John Iacono
-      image: img/team/john-iacono.jpg
+      image: /img/team/john-iacono.jpg
       webpage: http://johniacono.com
       description: Professor
       keywords: Data structures, computational geometry.
@@ -126,7 +126,7 @@ params:
       email: ulb@johniacono.com
 
     - name: Guy Louchard
-      image: img/team/guy-louchard.jpg
+      image: /img/team/guy-louchard.jpg
       webpage: http://www.ulb.ac.be/di/mcs/louchard
       description: I am now retired so I can devote (almost) all my time to research.
       keywords: Probabilistic techniques
@@ -137,7 +137,7 @@ params:
     # Postdocs
 
     - name: Elena Khramtcova
-      image: img/team/elena-khramtcova.jpg
+      image: /img/team/elena-khramtcova.jpg
       webpage: http://homepages.ulb.ac.be/~ekhramtc
       description: Postdoc
       keywords: Computational Geometry, Algorithms, Data Structures, Voronoi diagrams.
@@ -146,27 +146,27 @@ params:
 
     - name: Varunkumar Jayapaul
       description: Postdoc
-      image: img/team/varunkumar-jayapaul.jpg
+      image: /img/team/varunkumar-jayapaul.jpg
       office: 2.O8.214
       email: varunkumarj@gmail.com
 
     - name: Suman Bala
       description: Postdoc (Algo & QualSec)
-      image: img/team/suman-bala.png
+      image: /img/team/suman-bala.png
       email: suman1005@gmail.com
 
     - name: Grigorios Koumoutsos
       description: Future Postdoc
-      image: img/team/grigorios-koumoutsos.jpg
+      image: /img/team/grigorios-koumoutsos.jpg
       webpage: https://www.win.tue.nl/~gkoumout
 
     - name: Ben Karsin
       description: Future Postdoc
-      image: img/team/ben-karsin.jpg
+      image: /img/team/ben-karsin.jpg
       webpage: https://benkarsin.com
 
     - name: Tillmann Miltzow
-      image: img/team/tillmann-miltzow.jpg
+      image: /img/team/tillmann-miltzow.jpg
       webpage: https://sites.google.com/site/tillshome
       description: Postdoc (Math Department)
       keywords: Computational geometry.
@@ -174,18 +174,18 @@ params:
 
     - name: Tony Huynh
       description: Postdoc (Math Department)
-      image: img/team/tony-huynh.jpg
+      image: /img/team/tony-huynh.jpg
       webpage: https://sites.google.com/site/matroidintersection
 
     - name: Krystal Guo
       description: Postdoc (Math Department)
-      image: img/team/krystal-guo.jpg
+      image: /img/team/krystal-guo.jpg
       webpage: https://simons.berkeley.edu/people/krystal-guo
 
     # PhD students
 
     - name: Keno Merckx
-      image: img/team/keno-merckx.jpg
+      image: /img/team/keno-merckx.jpg
       webpage: http://homepages.ulb.ac.be/~kmerckx
       description: PhD student
       keywords: Graphs
@@ -193,7 +193,7 @@ params:
 
     - name: Aurélien Ooms
       description: PhD student
-      image: img/team/aurelien-ooms.jpg
+      image: /img/team/aurelien-ooms.jpg
       webpage: http://homepages.ulb.ac.be/~aureooms
       keywords: "Computational Complexity: Data Structures, Algorithms, Computational Geometry."
       office: 2.O8.214
@@ -201,13 +201,13 @@ params:
 
     - name: Marco Macchia
       description: PhD student (Math Department)
-      image: img/team/marco-macchia.jpg
+      image: /img/team/marco-macchia.jpg
       webpage: http://homepages.ulb.ac.be/~mmacchia
 
     # External members
 
     - name: Sébastien Collette
-      image: img/team/sebastien-collette.jpg
+      image: /img/team/sebastien-collette.jpg
       webpage: http://www.ulb.ac.be/di/algo/secollet
       description: Visiting professor (Maître de Conférence) at ULB. Consultant at Synapsis.
       keywords: Computational geometry, data structures.
@@ -216,14 +216,14 @@ params:
   alumni:
 
     - name: Udo Hoffmann
-      image: img/team/udo-hoffmann.jpg
+      image: /img/team/udo-hoffmann.jpg
       webpage: https://udohoffmann.bitbucket.io
       description: Former Postdoc
       keywords: Combinatorial geometry.
       email: udo.hoffmann@ulb.ac.be
 
     - name: Irina Kostitsyna
-      image: img/team/irina-kostitsyna.jpg
+      image: /img/team/irina-kostitsyna.jpg
       webpage: http://homepages.ulb.ac.be/~ikostits
       description: Former Postdoc
       keywords: "Computational Geometry: Polygons."
@@ -236,7 +236,7 @@ params:
         Grande Valley](http://www.utrgv.edu). Former Postdoc.
       webpage: http://andrewwinslow.com
       email: andrew.winslow+ulb@gmail.com
-      image: img/alumni/andrew-winslow.png
+      image: /img/alumni/andrew-winslow.png
       keywords: Algorithmic self-assembly, computational geometry
 
     - name: Luis Barba
@@ -247,7 +247,7 @@ params:
         Former PhD student.
       webpage: http://cglab.ca/~lfbarba
       email: luis.barba@inf.ethz.ch
-      image: img/alumni/luis-barba.jpg
+      image: /img/alumni/luis-barba.jpg
 
     - name: Vissarion Fisikopoulos
       description: >
@@ -255,7 +255,7 @@ params:
         geometric algorithms for GIS in
         [Boost.Geometry](http://www.boost.org/doc/libs/1_62_0/libs/geometry/doc/html/index.html)
         to support [MySQL](https://www.mysql.com). Former Postdoc.
-      image: img/alumni/vissarion-fisikopoulos.jpg
+        image: /img/alumni/vissarion-fisikopoulos.jpg
       webpage: https://vissarion.github.io
       keywords: Discrete geometry, polyhedral combinatorics
       email: vissarion.fysikopoulos@oracle.com
@@ -274,20 +274,20 @@ params:
         Former PhD student.
       webpage: http://homepages.ulb.ac.be/~ecamby
       email: Eglantine.Camby@ulb.ac.be
-      image: img/alumni/eglantine-camby.png
+      image: /img/alumni/eglantine-camby.png
 
     - name: Michael Payne
       description: Former Postdoc
       webpage: http://www.ms.unimelb.edu.au/~mspayne
       email: mpayne@ulb.ac.be
       keywords: Discrete geometry, geometric graph theory.
-      image: img/alumni/michael-payne.jpg
+      image: /img/alumni/michael-payne.jpg
 
     - name: Greg Aloupis
       description: Chargé de recherches du FNRS (FNRS Postdoctoral Researcher).
       keywords:  Computational geometry
       email: aloupis.greg@gmail.com
-      image: img/alumni/greg-aloupis.jpg
+      image: /img/alumni/greg-aloupis.jpg
       webpage: http://cg.scs.carleton.ca/~greg
 
     - name: Matias Korman
@@ -300,44 +300,44 @@ params:
         Memory constrained algorithms,
         Battery management in ad-hoc networks.
       email: mati@dais.is.tohoku.ac.jp
-      image: img/alumni/matias-korman.png
+      image: /img/alumni/matias-korman.png
       webpage: http://www.dais.is.tohoku.ac.jp/~mati
 
     - name: Marcin Kaminski
       description: Chargé de recherches du FNRS (FNRS Postdoctoral Researcher).
       keywords: Graph theory, Algorithms.
       email: Marcin.Kaminski@ulb.ac.be
-      image: img/alumni/marcin-kaminski.jpg
+      image: /img/alumni/marcin-kaminski.jpg
       webpage: http://rutcor.rutgers.edu/~mkaminski
 
     - name: Pegah Kamousi
       keywords: Probabilistic Optimization, Computational Geometry
       email: pegahk@gmail.com
-      image: img/alumni/pegah-kamousi.jpg
+      image: /img/alumni/pegah-kamousi.jpg
       description: Former Postdoc
 
     - name: Maria Saumell
       keywords: Computational Geometry
       email: maria.saumell.m@gmail.com
-      image: img/alumni/maria-saumell.jpg
+      image: /img/alumni/maria-saumell.jpg
       webpage: http://home.zcu.cz/~saumell
 
     - name: Luca Castelli-Aleardi
-      image: img/alumni/luca-castelli-aleardi.jpg
+      image: /img/alumni/luca-castelli-aleardi.jpg
       webpage: http://www.lix.polytechnique.fr/~amturing
 
     - name: Nathann Cohen
-      image: img/alumni/nathann-cohen.jpg
+      image: /img/alumni/nathann-cohen.jpg
       webpage: http://steinertriples.fr/ncohen
 
     - name: Raphael Jungers
-      image: img/alumni/raphael-jungers.jpg
+      image: /img/alumni/raphael-jungers.jpg
       webpage: http://perso.uclouvain.be/raphael.jungers
 
     - name: Perouz Taslakian
-      image: img/alumni/perouz-taslakian.jpg
+      image: /img/alumni/perouz-taslakian.jpg
       webpage: http://homepages.ulb.ac.be/~ptaslaki
 
     - name: Karim Douïeb
-      image: img/alumni/karim-douieb.jpg
+      image: /img/alumni/karim-douieb.jpg
       webpage: http://www.ulb.ac.be/di/algo/kdouieb

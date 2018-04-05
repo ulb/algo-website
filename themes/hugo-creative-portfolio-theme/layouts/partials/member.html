@@ -3,10 +3,10 @@
     {{ if .image }}
     {{ if .webpage }}
       <a href="{{ .webpage }}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
-	<img src="/{{ .image }}" alt="" class="img-responsive">
+	<img src="{{ .image }}" alt="" class="img-responsive">
       </a>
     {{ else }}
-      <img src="/{{ .image }}" alt="" class="img-responsive">
+      <img src="{{ .image }}" alt="" class="img-responsive">
     {{ end }}
     {{ end }}
     <div class="box-masonry-text">
