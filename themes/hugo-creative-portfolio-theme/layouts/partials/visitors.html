@@ -1,0 +1,10 @@
+<div class="col-xs-12 col-sm-8 col-md-9 content-column">
+    {{ partial "mobileNavToggle.html" . }}
+    <div class="grid">
+        <div class="row">
+          {{ range .Site.Params.visitors }}
+            {{ partial "visitor.html" . }}
+          {{ end }}
+        </div>
+    </div>
+</div>

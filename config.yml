@@ -66,6 +66,9 @@ params:
     - name: "Alumni"
       url: "alumni/"
 
+    - name: "Visitors"
+      url: "visitors/"
+
     #- name: "Get in touch"
     #  url: "contact/"
 
@@ -360,3 +363,11 @@ params:
     - name: Karim Douïeb
       image: /img/alumni/karim-douieb.jpg
       webpage: http://www.ulb.ac.be/di/algo/kdouieb
+
+
+  visitors:
+
+    - name: Natalia Garcia Colin
+      image: https://www.infotec.mx/work/models/infotec/design_2015/images/fotos_investigadores/Natalia-Garcia-Colin.jpg
+      visiting: 2018-03-06 - 2018-04-13
+      webpage: https://www.infotec.mx/es_mx/infotec/natalia_garcia_colin
