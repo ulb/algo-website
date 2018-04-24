@@ -38,11 +38,11 @@ params:
       Keywords: Discrete and computational geometry,
       algorithmic and structural graph theory,
       combinatorial optimization, data structures.
-    - >
-      Currently funded research projects:
-      EUROCORES EuroGIGA <a href="http://eurogiga-compose.eu/about.php">ComPoSe</a> and
-      <a href="http://eurogiga.inf.fu-berlin.de/w/VORONOI/">VORONOI</a>,
-      and ARC <a href="http://www.ulb.ac.be/recherche/presentation/fr-arccerf.html">COPHYMA</a>.
+    #- >
+      #Currently funded research projects:
+      #EUROCORES EuroGIGA <a href="http://eurogiga-compose.eu/about.php">ComPoSe</a> and
+      #<a href="http://eurogiga.inf.fu-berlin.de/w/VORONOI/">VORONOI</a>,
+      #and ARC <a href="http://www.ulb.ac.be/recherche/presentation/fr-arccerf.html">COPHYMA</a>.
 
   # Contact page
   # Since this template is static, the contact form uses www.formspree.io as a
