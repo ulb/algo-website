@@ -9,6 +9,9 @@
       {{ range .Site.Params.navlinks }}
         <li><a href="{{ $url }}{{ .url }}">{{ .name }}</a></li>
       {{ end }}
+      {{ range .Site.Params.extlinks }}
+        <li><a href="{{ .url }}">{{ .name }}</a></li>
+      {{ end }}
     </ul>
     {{ partial "socialButtonsInSideBar.html" . }}
 
