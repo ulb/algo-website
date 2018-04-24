@@ -367,6 +367,21 @@ params:
 
   visitors:
 
+    - name: Torsten Ueckerdt
+      image: http://www.math.kit.edu/iag6/~ueckerdt/media/june09.jpg
+      visiting: 2018-04-23 - 2018-04-27
+      webpage: http://www.math.kit.edu/iag6/~ueckerdt/en
+
+    - name: Kolja Knauer
+      image: http://pageperso.lif.univ-mrs.fr/~kolja.knauer/IMG_7382.JPG
+      visiting: 2018-04-23 - 2018-04-27
+      webpage: http://pageperso.lif.univ-mrs.fr/~kolja.knauer
+
+    - name: Piotr Micek
+      image: https://www.math.tu-berlin.de/fileadmin/_processed_/e/e1/csm_piotr_1e7cc348f0.jpg
+      visiting: 2018-04-23 - 2018-04-27
+      webpage: http://page.math.tu-berlin.de/~micek
+
     - name: Natalia Garcia Colin
       image: https://www.infotec.mx/work/models/infotec/design_2015/images/fotos_investigadores/Natalia-Garcia-Colin.jpg
       visiting: 2018-03-06 - 2018-04-13
