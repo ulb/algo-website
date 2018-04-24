@@ -69,8 +69,10 @@ params:
     - name: "Visitors"
       url: "visitors/"
 
-    #- name: "Get in touch"
-    #  url: "contact/"
+  extlinks:
+    # External nav links in the side bar
+    - name: "Algo Lunch"
+      url: "http://www.ulb.ac.be/di/algo/gjoret/algolunch.html"
 
   #social:
     #facebook:
