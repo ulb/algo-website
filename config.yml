@@ -393,3 +393,33 @@ params:
       image: https://www.infotec.mx/work/models/infotec/design_2015/images/fotos_investigadores/Natalia-Garcia-Colin.jpg
       visiting: 2018-03-06 - 2018-04-13
       webpage: https://www.infotec.mx/es_mx/infotec/natalia_garcia_colin
+
+    - name: Ahmad Abdi
+      image: https://uwaterloo.ca/discover-graduate-studies/sites/ca.discover-graduate-studies/files/uploads/images/500wide-ahmad-160620-uw-gso-c010819-part_2-3532.jpg
+      visiting: March 2018
+      webpage: https://www.math.uwaterloo.ca/~a3abdi
+
+    - name: Mikkel Abrahamsen
+      image: http://www.diku.dk/Nyheder/2017/mikkel-abrahamsen-faar-hele-fire-artikler-accepteret-til-socg-konference/Mikkel.jpg
+      visiting: February 2018
+      webpage: http://diku.dk/english/staff/?pure=en/persons/289414
+
+    - name: Grigorios Koumoutsos
+      image: https://www.win.tue.nl/~gkoumout/IMG_6166.JPG
+      visiting: February 2018
+      webpage: https://www.win.tue.nl/~gkoumout
+
+    - name: Thatchapol Saranurak
+      image: https://sites.google.com/site/thsaranurak/_/rsrc/1458870327036/home/KTH%20Profile-91.jpg
+      visiting: January 2018
+      webpage: https://sites.google.com/site/thsaranurak
+
+    - name: Luis Barba
+      image: /img/alumni/luis-barba.jpg
+      visiting: November 2017
+      webpage: http://cglab.ca/~lfbarba
+
+    - name: Wouter Cames van Batenburg
+      image: https://www.math.ru.nl/~woutercvb/wouter_compr.jpg
+      visiting: November 2017
+      webpage: https://www.math.ru.nl/~woutercvb
