@@ -13,7 +13,7 @@ or
 
 ##### Build
 ```console
-hugo
+make build
 ```
 
 ##### Serve locally
@@ -23,7 +23,5 @@ hugo server
 
 ##### Upload
 ```console
-rm -r public_html
-mv public{,_html}
-scp -r public_html/ aureooms@resu5.ulb.ac.be:/home/web1343/
+make upload
 ```
