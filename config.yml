@@ -369,6 +369,11 @@ params:
 
   visitors:
 
+    - name: Nodari Sitchinava
+      image: http://www.ics.hawaii.edu/wp-content/uploads/2013/08/Nodari_Sitchinava-2014.jpg
+      visiting: July 2018
+      webpage: https://www2.hawaii.edu/~nodari
+
     - name: Torsten Ueckerdt
       image: http://www.math.kit.edu/iag6/~ueckerdt/media/june09.jpg
       visiting: April 2018
