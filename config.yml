@@ -369,6 +369,16 @@ params:
 
   visitors:
 
+    - name: Riko Jacob
+      image: https://www.itu.dk/people/rikj/riko.jpg
+      visiting: July 2018
+      webpage: https://www.itu.dk/people/rikj
+
+    - name: Konstantinos A. Tsakalidis
+      image: http://www.madalgo.au.dk/~tsakalid/media/tsakalid.jpg
+      visiting: July 2018
+      webpage: http://www.madalgo.au.dk/~tsakalid
+
     - name: Nodari Sitchinava
       image: http://www.ics.hawaii.edu/wp-content/uploads/2013/08/Nodari_Sitchinava-2014.jpg
       visiting: July 2018
