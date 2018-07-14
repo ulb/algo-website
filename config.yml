@@ -279,7 +279,7 @@ params:
         geometric algorithms for GIS in
         [Boost.Geometry](http://www.boost.org/doc/libs/1_62_0/libs/geometry/doc/html/index.html)
         to support [MySQL](https://www.mysql.com). Former Postdoc.
-        image: /img/alumni/vissarion-fisikopoulos.jpg
+      image: /img/alumni/vissarion-fisikopoulos.jpg
       webpage: https://vissarion.github.io
       keywords: Discrete geometry, polyhedral combinatorics
       email: vissarion.fysikopoulos@oracle.com
