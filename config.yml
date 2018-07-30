@@ -178,6 +178,7 @@ params:
       description: Postdoc
       image: /img/team/ben-karsin.jpg
       webpage: https://benkarsin.com
+      office: 2.O8.214
 
     - name: Tillmann Miltzow
       image: /img/team/tillmann-miltzow.jpg
