@@ -161,13 +161,10 @@ params:
       email: suman1005@gmail.com
 
     - name: Wouter Cames van Batenburg
-      image: https://www.math.ru.nl/~woutercvb/wouter_compr.jpg
-      webpage: https://www.math.ru.nl/~woutercvb
+      image: http://homepages.ulb.ac.be/~wcamesva/wouter_compr.jpg
+      webpage: http://homepages.ulb.ac.be/~wcamesva/
       description: Postdoc
-      keywords: >
-        percolation theory, coloring problems, extremal combinatorics,
-        high-dimensional percolation, Last Passage Percolation,
-        coloring and packing of graphs.
+      keywords: extremal combinatorics, percolation, colouring and packing of graphs.
 
     - name: Grigorios Koumoutsos
       description: Future Postdoc
