@@ -367,6 +367,16 @@ params:
 
   visitors:
 
+    - name: Lena Yuditsky
+      image: http://www.math.kit.edu/iag6/~yuditsky/media/photo2.png
+      visiting: October 2018
+      webpage: http://www.math.kit.edu/iag6/~yuditsky
+
+    - name: Bartosz Walczak
+      image: http://www.tcs.uj.edu.pl/image/journal/article?img_id=140190729&t=1529700891007
+      visiting: August 2018
+      webpage: http://www.tcs.uj.edu.pl/walczak
+
     - name: Riko Jacob
       image: https://www.itu.dk/people/rikj/riko.jpg
       visiting: July 2018
