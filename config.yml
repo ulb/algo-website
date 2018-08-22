@@ -367,11 +367,6 @@ params:
 
   visitors:
 
-    - name: Naoki Katoh
-      image: https://sci-tech.ksc.kwansei.ac.jp/en/wp/wp-content/uploads/2015/11/NaokiKatoh.jpg
-      visiting: September 2018
-      webpage: https://sci-tech.ksc.kwansei.ac.jp/en/faculty/naoki-katoh
-
     - name: Riko Jacob
       image: https://www.itu.dk/people/rikj/riko.jpg
       visiting: July 2018
