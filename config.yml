@@ -247,7 +247,10 @@ params:
     - name: Irina Kostitsyna
       image: /img/team/irina-kostitsyna.jpg
       webpage: http://homepages.ulb.ac.be/~ikostits
-      description: Former Postdoc
+      description: >
+        Assistant professor in the Applied Geometric Algorithms
+        group at the Department of Mathematics and Computer Science at
+        [TU Eindhoven](https://www.tue.nl/en). Former Postdoc.
       keywords: "Computational Geometry: Polygons."
       email: irina.kostitsyna@ulb.ac.be
 
@@ -299,31 +302,30 @@ params:
       image: /img/alumni/eglantine-camby.png
 
     - name: Michael Payne
-      description: Former Postdoc
+      description: Lecturer, [La Trobe University](https://www.latrobe.edu.au). Former Postdoc.
       webpage: http://www.ms.unimelb.edu.au/~mspayne
       email: mpayne@ulb.ac.be
       keywords: Discrete geometry, geometric graph theory.
       image: /img/alumni/michael-payne.jpg
 
     - name: Greg Aloupis
-      description: Chargé de recherches du FNRS (FNRS Postdoctoral Researcher).
+      description: >
+        Industry Professor, [New York University](https://www.nyu.edu).
+        Former Chargé de recherches du FNRS (FNRS Postdoctoral Researcher).
       keywords:  Computational geometry
       email: aloupis.greg@gmail.com
       image: /img/alumni/greg-aloupis.jpg
       webpage: http://cg.scs.carleton.ca/~greg
 
     - name: Matias Korman
-      description: >
-        Assistant professor at
-        [Tokuyama Laboratory](http://www.dais.is.tohoku.ac.jp/index_e.html)
-        within [Tohoku University](http://www.tohoku.ac.jp/en).
+      description: Visiting Assistant Professor at [Tufts](https://www.tufts.edu). Former Postdoc.
       keywords: >
         Geometric shortest path planning,
         Memory constrained algorithms,
         Battery management in ad-hoc networks.
-      email: mati@dais.is.tohoku.ac.jp
+      email: Matias.Korman@tufts.edu
       image: /img/alumni/matias-korman.png
-      webpage: http://www.dais.is.tohoku.ac.jp/~mati
+      webpage: https://engineering.tufts.edu/people/faculty/matias-korman
 
     - name: Marcin Kaminski
       description: Chargé de recherches du FNRS (FNRS Postdoctoral Researcher).
@@ -363,6 +365,7 @@ params:
     - name: Karim Douïeb
       image: /img/alumni/karim-douieb.jpg
       webpage: http://www.ulb.ac.be/di/algo/kdouieb
+      description: Co-Founder - [Jetpack.AI](https://jetpack.ai). Former PhD student.
 
 
   visitors:
