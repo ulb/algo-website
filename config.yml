@@ -141,14 +141,6 @@ params:
 
     # Postdocs
 
-    - name: Elena Khramtcova
-      image: /img/team/elena-khramtcova.jpg
-      webpage: http://homepages.ulb.ac.be/~ekhramtc
-      description: Postdoc
-      keywords: Computational Geometry, Algorithms, Data Structures, Voronoi diagrams.
-      office: 2.O8.214
-      email: elena.khramtcova@ulb.ac.be
-
     - name: Varunkumar Jayapaul
       description: Postdoc
       image: /img/team/varunkumar-jayapaul.jpg
@@ -236,6 +228,17 @@ params:
 
 
   alumni:
+
+    - name: Elena Arseneva (Khramtcova)
+      image: /img/team/elena-khramtcova.jpg
+      webpage: http://homepages.ulb.ac.be/~ekhramtc
+      description: >
+        Assistant Professor (старший преподаватель) in the Mathematics and TCS
+        Program of [St. Petersburg State University](http://english.spbu.ru),
+        Russia.
+        Former Postdoc.
+      keywords: Computational Geometry, Algorithms, Data Structures, Voronoi diagrams.
+      email: elena.khramtsova@gmail.com
 
     - name: Udo Hoffmann
       image: /img/team/udo-hoffmann.jpg
