@@ -160,9 +160,10 @@ params:
       office: 2.O8.110
 
     - name: Grigorios Koumoutsos
-      description: Future Postdoc
+      description: Postdoc
       image: /img/team/grigorios-koumoutsos.jpg
       webpage: https://www.win.tue.nl/~gkoumout
+      office: 2.O8.110
 
     - name: Ben Karsin
       description: Postdoc
