@@ -153,7 +153,7 @@ params:
       email: suman1005@gmail.com
 
     - name: Wouter Cames van Batenburg
-      image: http://homepages.ulb.ac.be/~wcamesva/wouter_compr.jpg
+      image: https://ipfs.io/ipfs/QmNycDvxe1WXd2prsmJjLMggrnSFj8LSz3hDY35jRQ5ARB
       webpage: http://homepages.ulb.ac.be/~wcamesva/
       description: Postdoc
       keywords: extremal combinatorics, percolation, colouring and packing of graphs.
@@ -206,7 +206,7 @@ params:
 
     - name: Carole Muller
       description: PhD student (Math Department)
-      image: http://student.ulb.ac.be/~camuller/images/Carole_Muller.png
+      image: https://ipfs.io/ipfs/QmXBDYYmDnJKoC7o8uJPk5undF86AFmLKDNTgXP4QUfKEo
       webpage: http://student.ulb.ac.be/~camuller
 
     - name: Matthew Drescher
@@ -378,72 +378,72 @@ params:
   visitors:
 
     - name: Lena Yuditsky
-      image: http://www.math.kit.edu/iag6/~yuditsky/media/photo2.png
+      image: https://ipfs.io/ipfs/QmQ5bCNhzCbjeN7p1kw82wj6fiwiTQv6V3W5TJQwhDXtEk
       visiting: October 2018
       webpage: http://www.math.kit.edu/iag6/~yuditsky
 
     - name: Bartosz Walczak
-      image: http://www.tcs.uj.edu.pl/image/journal/article?img_id=140190729&t=1529700891007
+      image: https://ipfs.io/ipfs/QmRPxP3H4ttoKn6xp9ucuirLMCDhS56Ct7e6KSkzXkSQuy
       visiting: August 2018
       webpage: http://www.tcs.uj.edu.pl/walczak
 
     - name: Riko Jacob
-      image: https://www.itu.dk/people/rikj/riko.jpg
+      image: https://ipfs.io/ipfs/QmW6VjL7rVG9voe4KWqjwhbbzq2KAUjfrAXprXja6CoR1M
       visiting: July 2018
       webpage: https://www.itu.dk/people/rikj
 
     - name: Konstantinos A. Tsakalidis
-      image: http://www.madalgo.au.dk/~tsakalid/media/tsakalid.jpg
+      image: https://ipfs.io/ipfs/QmeUJeUwtBWw8FwzXqQKnBTMnU7tiD4Qqvw82sCQvW1YQm
       visiting: July 2018
       webpage: http://www.madalgo.au.dk/~tsakalid
 
     - name: Nodari Sitchinava
-      image: http://www.ics.hawaii.edu/wp-content/uploads/2013/08/Nodari_Sitchinava-2014.jpg
+      image: https://ipfs.io/ipfs/QmWwf8FjRDnGU5BesqTZGLx8AZMJn6JMC38JNpVvuBKGTW
       visiting: July 2018
       webpage: https://www2.hawaii.edu/~nodari
 
     - name: Torsten Ueckerdt
-      image: http://www.math.kit.edu/iag6/~ueckerdt/media/june09.jpg
+      image: https://ipfs.io/ipfs/QmW4D8StwEbiKqa7DrRcVaNf19PbetQwoX75vu8UGQT5bN
       visiting: April 2018
       webpage: http://www.math.kit.edu/iag6/~ueckerdt/en
 
     - name: Kolja Knauer
-      image: http://pageperso.lif.univ-mrs.fr/~kolja.knauer/IMG_7382.JPG
+      image: https://ipfs.io/ipfs/QmP65gzE9crL55jBy9HiXcK97jtywuJMQQKtp8PJZjE6cE
       visiting: April 2018
       webpage: http://pageperso.lif.univ-mrs.fr/~kolja.knauer
 
     - name: Piotr Micek
-      image: https://www.math.tu-berlin.de/fileadmin/_processed_/e/e1/csm_piotr_1e7cc348f0.jpg
+      image: https://ipfs.io/ipfs/QmdFTPsqp6tWKQS9BPHb9e9ysiSHstEr27SkaK4K57opWk
       visiting: April 2018
       webpage: http://page.math.tu-berlin.de/~micek
 
     - name: Sander Gribling
-      image: https://www.cwi.nl/intranet/faces/2851.jpg
+      image: https://ipfs.io/ipfs/QmNu8T9ewY2xsYrLRtQPE3FDq6gEq3SzmArrtSCQLE5KxZ
       visiting: April 2018
       webpage: https://www.cwi.nl/people/sander-gribling
 
     - name: Natalia Garcia Colin
-      image: https://www.infotec.mx/work/models/infotec/design_2015/images/fotos_investigadores/Natalia-Garcia-Colin.jpg
+      image: https://ipfs.io/ipfs/QmUx2U3n7NwsNtCZdqpJUjDeAtm1qENF2hNP1ApX4eQA9D
       visiting: March - April 2018
       webpage: https://www.infotec.mx/es_mx/infotec/natalia_garcia_colin
 
     - name: Ahmad Abdi
-      image: https://uwaterloo.ca/discover-graduate-studies/sites/ca.discover-graduate-studies/files/uploads/images/500wide-ahmad-160620-uw-gso-c010819-part_2-3532.jpg
+      image: https://ipfs.io/ipfs/QmeRGbPgJbBCWkfhGKAbtQ6KazLtHK8W8M4y2dDqbQ9PmP
       visiting: March 2018
       webpage: https://www.math.uwaterloo.ca/~a3abdi
 
     - name: Mikkel Abrahamsen
-      image: http://www.diku.dk/Nyheder/2017/mikkel-abrahamsen-faar-hele-fire-artikler-accepteret-til-socg-konference/Mikkel.jpg
+      image: https://ipfs.io/ipfs/QmUm9Gh6nh7We21fBkLN57m9RT7YC61RPWzW8KvgWh6BUX
       visiting: February 2018
       webpage: http://diku.dk/english/staff/?pure=en/persons/289414
 
     - name: Grigorios Koumoutsos
-      image: https://www.win.tue.nl/~gkoumout/IMG_6166.JPG
+      image: https://ipfs.io/ipfs/QmVZ8VgLCg3yp9XrWmLW4NM79n8yww53wLDvq8Z9c2FVoh
       visiting: February 2018
       webpage: https://www.win.tue.nl/~gkoumout
 
     - name: Thatchapol Saranurak
-      image: https://sites.google.com/site/thsaranurak/_/rsrc/1458870327036/home/KTH%20Profile-91.jpg
+      image: https://ipfs.io/ipfs/QmQgGmTcCcs2TTaGz9jaMwFbTvhFG33FZymuoxTDFr3WXW
       visiting: January 2018
       webpage: https://sites.google.com/site/thsaranurak
 
@@ -453,6 +453,6 @@ params:
       webpage: http://cglab.ca/~lfbarba
 
     - name: Wouter Cames van Batenburg
-      image: https://www.math.ru.nl/~woutercvb/wouter_compr.jpg
+      image: https://ipfs.io/ipfs/QmNycDvxe1WXd2prsmJjLMggrnSFj8LSz3hDY35jRQ5ARB
       visiting: November 2017
       webpage: https://www.math.ru.nl/~woutercvb
