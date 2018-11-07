@@ -181,6 +181,12 @@ params:
       image: /img/team/krystal-guo.jpg
       webpage: https://simons.berkeley.edu/people/krystal-guo
 
+    - name: Marco Macchia
+      description: Postdoc. Former PhD student (Math Department).
+      image: /img/team/marco-macchia.jpg
+      webpage: http://homepages.ulb.ac.be/~mmacchia
+
+
     # PhD students
 
     - name: Keno Merckx
@@ -197,11 +203,6 @@ params:
       keywords: "Computational Complexity: Data Structures, Algorithms, Computational Geometry."
       office: 2.O8.214
       email: aureooms@ulb.ac.be
-
-    - name: Marco Macchia
-      description: Postdoc. Former PhD student (Math Department).
-      image: /img/team/marco-macchia.jpg
-      webpage: http://homepages.ulb.ac.be/~mmacchia
 
     - name: Carole Muller
       description: PhD student (Math Department)
