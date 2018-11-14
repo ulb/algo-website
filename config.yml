@@ -378,7 +378,7 @@ params:
   visitors:
 
     - name: Lena Yuditsky
-      image: https://ipfs.io/ipfs/QmQ5bCNhzCbjeN7p1kw82wj6fiwiTQv6V3W5TJQwhDXtEk
+      image: https://ipfs.io/ipfs/QmSnsyDW8d4UkaLkWuDDxt4dxzXgc5pYnRaS1jw8XE5SFo
       visiting: October 2018
       webpage: http://www.math.kit.edu/iag6/~yuditsky
 
@@ -433,7 +433,7 @@ params:
       webpage: https://www.math.uwaterloo.ca/~a3abdi
 
     - name: Mikkel Abrahamsen
-      image: https://ipfs.io/ipfs/QmUm9Gh6nh7We21fBkLN57m9RT7YC61RPWzW8KvgWh6BUX
+      image: https://ipfs.io/ipfs/QmcdWGbEzhGra3b4yc1qPF1xrd1tEmDmGZa4fWwmLqNDSj
       visiting: February 2018
       webpage: http://diku.dk/english/staff/?pure=en/persons/289414
 
