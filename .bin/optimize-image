@@ -1,0 +1,12 @@
+#!/usr/bin/env sh
+
+src="$@"
+fmt="$(file "$src")"
+
+if $(grep "^${src}: JPEG image data" <<< "$fmt" 1>/dev/null) ; then
+	optijpeg "$src"
+elif $(grep "^${src}: PNG image data" <<< "$fmt" 1>/dev/null) ; then
+	optipng "$src"
+elif $(grep "^${src}: GIF image data" <<< "$fmt" 1>/dev/null) ; then
+	optigif "$src"
+fi

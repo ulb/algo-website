@@ -1,7 +1,14 @@
+.PHONY: all build upload optimize clean
+.SECONDARY:
+
 THEMES := $(shell find themes -type f -print)
 STATIC := $(shell find static -type f -print)
 CONTENT := $(shell find content -type f -print)
 
+IMAGES_KEY := $(shell sh .bin/list-images config.yml)
+IMAGES_SRC := $(addprefix .cache/src/,$(IMAGES_KEY))
+IMAGES_SMA := $(addprefix .cache/sma/,$(IMAGES_KEY))
+IMAGES_OPT := $(addprefix .cache/opt/,$(IMAGES_KEY))
 
 all: build upload
 
@@ -16,5 +23,23 @@ upload:
 	cp -r public{,_html}
 	scp -r public_html/ aureooms@resu5.ulb.ac.be:/home/web1343/
 
+optimize: $(IMAGES_OPT)
+	@sh .bin/update-config config.yml $^
+
+.cache/src/%:
+	@mkdir -p $(dir $@)
+	ipfs get $(notdir $@) -o $@
+
+.cache/sma/%: .cache/src/%
+	@mkdir -p $(dir $@)
+	cp $< $@
+	convert -resize 400x\> $< $@
+
+.cache/opt/%: .cache/sma/%
+	@mkdir -p $(dir $@)
+	cp $< $@
+	sh .bin/optimize-image $@
+
+
 clean:
-	rm -rf public{,_html}
+	rm -rf public{,_html} .cache
