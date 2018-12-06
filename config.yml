@@ -262,10 +262,7 @@ params:
       email: irina.kostitsyna@ulb.ac.be
 
     - name: Andrew Winslow
-      description: >
-        Assistant Professor at the [Computer Science
-        Department](http://www.utrgv.edu/csci) at the [University of Texas Rio
-        Grande Valley](http://www.utrgv.edu). Former Postdoc.
+      description: Software engineer at Google. Former Postdoc.
       webpage: http://andrewwinslow.com
       email: andrew.winslow+ulb@gmail.com
       image: https://ipfs.io/ipfs/QmWR2L3c7cZ5dewpPTBJJzb89mxgiMZUqiSbzyQxAnkfm6
