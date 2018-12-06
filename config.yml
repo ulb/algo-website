@@ -374,6 +374,11 @@ params:
 
   visitors:
 
+    - name: Maarten Löffler
+      image: https://ipfs.io/ipfs/QmZbGWfHEBNfsGUK6NxrbcpBFtyy75MJ6eiVVV65rHVaLr
+      visiting: November 2018
+      webpage: https://www.staff.science.uu.nl/~loffl001/about.html
+
     - name: Lena Yuditsky
       image: https://ipfs.io/ipfs/QmVtzbnAP7moyyg2gze2E1AQ9s4Vm4AxZbb3WavRjEJh8K
       visiting: October 2018
