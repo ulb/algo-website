@@ -186,6 +186,11 @@ params:
       image: https://ipfs.io/ipfs/QmfUPALGifDH4kkVoH7NjDrXpPkfSkJ7yU3Quuxzqjigbn
       webpage: http://homepages.ulb.ac.be/~mmacchia
 
+    - name: Yann Barsamian
+      description: Postdoc
+      image: https://ipfs.io/ipfs/QmXaVLsMCTQhjwUVRjnFz8qvXk5PSocHJxjeCCf13gntbE
+      webpage: https://barsamian.am
+
 
     # PhD students
 
