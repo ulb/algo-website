@@ -141,12 +141,6 @@ params:
 
     # Postdocs
 
-    - name: Varunkumar Jayapaul
-      description: Postdoc
-      image: https://ipfs.io/ipfs/QmSrFZ2AP9dX9G2QyCVmRUNCoz4eNu1QPQdWDVMBSjyRQt
-      office: 2.O8.214
-      email: varunkumarj@gmail.com
-
     - name: Suman Bala
       description: Postdoc (Algo & QualSec)
       image: https://ipfs.io/ipfs/QmWsje7GrgLPsr6dYZwQysudLnWK85Srpj7FZCKBruE6FM
@@ -230,6 +224,11 @@ params:
 
 
   alumni:
+
+    - name: Varunkumar Jayapaul
+      description: Former Postdoc
+      image: https://ipfs.io/ipfs/QmSrFZ2AP9dX9G2QyCVmRUNCoz4eNu1QPQdWDVMBSjyRQt
+      email: varunkumarj@gmail.com
 
     - name: Tillmann Miltzow
       image: https://ipfs.io/ipfs/QmQURgrZnSW9e5zxo7rofTbifj472a7iwTmqapjzxaTRYf
