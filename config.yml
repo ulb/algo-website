@@ -378,6 +378,11 @@ params:
 
   visitors:
 
+    - name: Sergio Cabello
+      image: https://ipfs.io/ipfs/QmUv8qbTbkmjzMCjzNszTpZLzYqyE65bno8DQTsiru9Px5
+      visiting: January 2019
+      webpage: https://www.fmf.uni-lj.si/~cabello
+
     - name: Maarten Löffler
       image: https://ipfs.io/ipfs/QmZbGWfHEBNfsGUK6NxrbcpBFtyy75MJ6eiVVV65rHVaLr
       visiting: November 2018
