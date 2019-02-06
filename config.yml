@@ -236,7 +236,7 @@ params:
 
     - name: Tillmann Miltzow
       image: https://ipfs.io/ipfs/QmQURgrZnSW9e5zxo7rofTbifj472a7iwTmqapjzxaTRYf
-      webpage: https://sites.google.com/view/miltzow/home
+      webpage: http://sites.google.com/view/miltzow/home
       description: Former Postdoc (Algo group and Math Department). Researcher at [Utrecht University](https://www.uu.nl/en).
       keywords: Computational geometry.
       email: t.miltzow@googlemail.com
