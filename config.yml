@@ -156,9 +156,12 @@ params:
     - name: Grigorios Koumoutsos
       description: Postdoc
       image: https://ipfs.io/ipfs/QmU3R3HAQ1tgkMx5ndR3pVoWtrJQJaCRxfedBABPkSxbcY
-      webpage: https://www.win.tue.nl/~gkoumout
+      webpage: http://homepages.ulb.ac.be/~gkoumout/
+      keywords: Online Algorithms, Online Learning, Data Structures
       office: 2.O8.214
-
+      email: gkoumout@ulb.ac.be
+      
+      
     - name: Ben Karsin
       description: Postdoc
       image: https://ipfs.io/ipfs/QmSEW67JtHEmGE8Gyx4SQycrHycLK7a6PYSw5G5rvSDvmw
