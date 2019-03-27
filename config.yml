@@ -189,8 +189,9 @@ params:
       webpage: https://barsamian.am
 
     - name: Seungbum Jo
-      description: Future Postdoc
+      description: Postdoc
       image: https://ipfs.io/ipfs/QmPCn2FVCYLWp4XQ8xaWGKQ6bxAk6MgJKreSknrUS6BSkz
+      office: 2.O8.110
 
 
     # PhD students
