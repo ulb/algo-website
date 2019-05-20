@@ -178,11 +178,6 @@ params:
       image: https://ipfs.io/ipfs/QmPGaoofWb8xnUxPWkw6StRdTpzvctqv6LeRbgBoxQEwBf
       webpage: https://simons.berkeley.edu/people/krystal-guo
 
-    - name: Marco Macchia
-      description: Postdoc. Former PhD student (Math Department).
-      image: https://ipfs.io/ipfs/QmYQTbMkzEFQeNpTp9UQUVCTNg8eTHaoTaC3YRKGX3tKbS
-      webpage: http://homepages.ulb.ac.be/~mmacchia
-
     - name: Yann Barsamian
       description: Postdoc
       image: https://ipfs.io/ipfs/QmbVNsrf6qv6gHshqWKnKuxVE7Sg8u7r5gzgpKKAGiEQDj
@@ -232,6 +227,11 @@ params:
 
 
   alumni:
+
+    - name: Marco Macchia
+      description: Former Postdoc and PhD student (Math Department).
+      image: https://ipfs.io/ipfs/QmYQTbMkzEFQeNpTp9UQUVCTNg8eTHaoTaC3YRKGX3tKbS
+      webpage: http://homepages.ulb.ac.be/~mmacchia
 
     - name: Varunkumar Jayapaul
       description: Former Postdoc
