@@ -386,6 +386,36 @@ params:
 
   visitors:
 
+    - name: Maarten Löffler
+      image: https://ipfs.io/ipfs/QmZbGWfHEBNfsGUK6NxrbcpBFtyy75MJ6eiVVV65rHVaLr
+      visiting: May 2019
+      webpage: https://www.staff.science.uu.nl/~loffl001/about.html
+
+    - name: Hugo Akitaya
+      image: https://ipfs.io/ipfs/QmW4W51M86NnAWqtxbESprBYgndWorCRZgK64YYrbVhFjv
+      visiting: May 2019
+      webpage: https://www.linkedin.com/in/hugo-akitaya-a9b5b9108
+
+    - name: Nodari Sitchinava
+      image: https://ipfs.io/ipfs/QmeSwWPWKbBZeh7JSaJ9ErGEfRA5HBZKyhh3tCtRH6oWas
+      visiting: May 2019
+      webpage: https://www2.hawaii.edu/~nodari
+
+    - name: Carlos Hidalgo-Toscano
+      image: https://ipfs.io/ipfs/QmQPKE5A6aZv1ENroCGZhNZnekhjT77mmDEdiGtJVj1or2
+      visiting: May 2019
+      webpage: https://scholar.google.com/citations?user=xVoG_iMAAAAJ&hl=en
+
+    - name: Jit Bose
+      image: https://ipfs.io/ipfs/QmXsH97TB8r2fi6wFLb7bPSvQ1BzJwNnmNoHbwVM4WSnTe
+      visiting: May 2019
+      webpage: https://jitbose.ca
+
+    - name: Jules Wulms
+      image: https://ipfs.io/ipfs/QmdRUyknUAPUFHbGR8Gbd7AWvz4VPjwUqvUPDNgyoXCKQh
+      visiting: May 2019
+      webpage: https://www.win.tue.nl/~jwulms
+
     - name: Sergio Cabello
       image: https://ipfs.io/ipfs/QmUv8qbTbkmjzMCjzNszTpZLzYqyE65bno8DQTsiru9Px5
       visiting: January 2019
