@@ -231,7 +231,7 @@ params:
     - name: Marco Macchia
       description: Former Postdoc and PhD student (Math Department).
       image: https://ipfs.io/ipfs/QmYQTbMkzEFQeNpTp9UQUVCTNg8eTHaoTaC3YRKGX3tKbS
-      webpage: http://homepages.ulb.ac.be/~mmacchia
+      webpage: https://mmacchia90.bitbucket.io
 
     - name: Varunkumar Jayapaul
       description: Former Postdoc
@@ -429,7 +429,7 @@ params:
     - name: Lena Yuditsky
       image: https://ipfs.io/ipfs/QmRyDJCiCULdDYJPi172YGh1mzDtvgtYx1Sq8SDaSbWtnP
       visiting: October 2018
-      webpage: http://www.math.kit.edu/iag6/~yuditsky
+      webpage: https://www.cs.mcgill.ca/~yyudit
 
     - name: Bartosz Walczak
       image: https://ipfs.io/ipfs/QmQL8Bf4e1DqEBgjhDgSFs9145YCP9fHwfj5MCs6gRvA91
@@ -441,10 +441,10 @@ params:
       visiting: July 2018
       webpage: https://www.itu.dk/people/rikj
 
-    - name: Konstantinos A. Tsakalidis
+    - name: Konstantinos Tsakalidis
       image: https://ipfs.io/ipfs/QmfRj79fh21pAH1kmxp4YxjXrnBpobsVsQ69S9Peo5iSng
       visiting: July 2018
-      webpage: http://www.madalgo.au.dk/~tsakalid
+      webpage: https://cgi.csc.liv.ac.uk/~tsakalid
 
     - name: Nodari Sitchinava
       image: https://ipfs.io/ipfs/QmYTxCebi7wLQD7QDtunQfKz6G7ToCrTE5U7EKw4KQE7SW
@@ -479,7 +479,7 @@ params:
     - name: Ahmad Abdi
       image: https://ipfs.io/ipfs/QmeMQ6FR96PnqHAvFPYa3qh8e2dJfpwbLr667pcYTs91gA
       visiting: March 2018
-      webpage: https://www.math.uwaterloo.ca/~a3abdi
+      webpage: http://www.lse.ac.uk/Mathematics/people/Ahmad-Abdi
 
     - name: Mikkel Abrahamsen
       image: https://ipfs.io/ipfs/QmevTbnQcyGhhXUtdzqbgyCbePWTAjvY151TDxjfHtoVAC
