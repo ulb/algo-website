@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+
+while read -r key; do
+	ipfs pin add "$key"
+done

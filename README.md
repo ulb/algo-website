@@ -26,3 +26,13 @@ make build
 ```console
 hugo server
 ```
+
+##### Optimize images
+```console
+make optimize
+```
+
+##### Pin images
+```console
+make pin
+```

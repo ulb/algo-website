@@ -1,4 +1,4 @@
-.PHONY: all build upload optimize clean
+.PHONY: all build upload optimize pin clean
 .SECONDARY:
 
 THEMES := $(shell find themes -type f -print)
@@ -40,6 +40,8 @@ optimize: $(IMAGES_OPT)
 	cp $< $@
 	sh .bin/optimize-image $@
 
+pin: config.yml
+	@sh .bin/list-images $< | sh .bin/pin-images
 
 clean:
 	rm -rf public{,_html} .cache
