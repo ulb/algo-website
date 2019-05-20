@@ -89,7 +89,7 @@ params:
     # Permanent staff
 
     - name: Jean Cardinal
-      image: https://ipfs.io/ipfs/QmQ34i4KTp5nJzGc6TKS2pBRpr626BXwgsqzVeJ1ASBDYA
+      image: https://ipfs.io/ipfs/QmQbyGB3eLReZQh7UeXNFRxgYAfUjrPd36q8QK7MSJta97
       webpage: http://homepages.ulb.ac.be/~jcardin
       description: Professor
       keywords: Discrete and computational geometry, graphs, information theory.
@@ -98,14 +98,14 @@ params:
       email: jcardin@ulb.ac.be
 
     - name: Samuel Fiorini
-      image: https://ipfs.io/ipfs/QmVorega83U1rsez2K1vzfWKNbWkPhak73SyxCjUfCuuKD
+      image: https://ipfs.io/ipfs/QmWMnnu2xS6pe29cJ4roDBVnHKuFMaghBwUccZTVvfMz5e
       webpage: http://homepages.ulb.ac.be/~sfiorini
       description: Professor (Math Department)
       keywords: Combinatorial optimization, polyhedral combinatorics, graph theory.
       email: sfiorini@ulb.ac.be
 
     - name: Gwenaël Joret
-      image: https://ipfs.io/ipfs/QmazTYo9aGewcVAqz4P9ksxBUTd5nR9fNNGy7Bt1ZD4BGL
+      image: https://ipfs.io/ipfs/QmdT2XPt5LcZcBDrJH7PJ6G3wg2F7Wjyv61CrAGkz9FMTw
       webpage: http://www.ulb.ac.be/di/algo/gjoret
       description: Assistant Professor
       keywords: Graph theory, combinatorial optimization, approximation algorithms.
@@ -114,7 +114,7 @@ params:
       email: gjoret@ulb.ac.be
 
     - name: Stefan Langerman
-      image: https://ipfs.io/ipfs/QmUFVyZJx8rLmPVg3dZVxAHxhwojSynSgCauWMYNUBZFCt
+      image: https://ipfs.io/ipfs/QmZrEUX4BKhe777x8L6FxxfNozZmLpGLsSW9ejc7krm56M
       webpage: https://algo.ulb.be/sl
       description: Directeur de recherches (FNRS Research Director)
       keywords: Computational geometry, data structures.
@@ -123,7 +123,7 @@ params:
       email: stefan.langerman@ulb.ac.be
 
     - name: John Iacono
-      image: https://ipfs.io/ipfs/Qma1hSDADUUPpLXmz5qV7yJiUEBC4QW9DvZsnmVCyqe1wy
+      image: https://ipfs.io/ipfs/QmfS7hMCVuZ24aJyDijTZxXX3RLfBXDJmFRBtaYTSex5AM
       webpage: http://johniacono.com
       description: Professor
       keywords: Data structures, computational geometry.
@@ -131,7 +131,7 @@ params:
       email: ulb@johniacono.com
 
     - name: Guy Louchard
-      image: https://ipfs.io/ipfs/QmTxwi3ypGMAFKWMvS5Sa5fYbHvjHAw6gKZhNSYcQbsVSZ
+      image: https://ipfs.io/ipfs/QmPMtM6cotdcbS5sVgGpfuep3bc5hHyBgNLK3R8g6hFUM4
       webpage: http://www.ulb.ac.be/di/mcs/louchard
       description: I am now retired so I can devote (almost) all my time to research.
       keywords: Probabilistic techniques
@@ -143,11 +143,11 @@ params:
 
     - name: Suman Bala
       description: Postdoc (Algo & QualSec)
-      image: https://ipfs.io/ipfs/QmWsje7GrgLPsr6dYZwQysudLnWK85Srpj7FZCKBruE6FM
+      image: https://ipfs.io/ipfs/QmQqPvqnhDVgzrkKKnCsQAiVuFxnV6YHBjoj9WszhBBUuP
       email: suman1005@gmail.com
 
     - name: Wouter Cames van Batenburg
-      image: https://ipfs.io/ipfs/QmZmg8woxSuzCrXLdR15ofLxHFP8MW8CKDRmXPcfD1TJtX
+      image: https://ipfs.io/ipfs/QmQ4PsumUV2686hqMV5W9AQiExWRdK4NnPLL2x4nGTkqYa
       webpage: http://homepages.ulb.ac.be/~wcamesva/
       description: Postdoc
       keywords: extremal combinatorics, percolation, colouring and packing of graphs.
@@ -155,7 +155,7 @@ params:
 
     - name: Grigorios Koumoutsos
       description: Postdoc
-      image: https://ipfs.io/ipfs/QmU3R3HAQ1tgkMx5ndR3pVoWtrJQJaCRxfedBABPkSxbcY
+      image: https://ipfs.io/ipfs/QmcqbdmzLsajmHk3AUCSz1ynJvf9iGYmVf4TSqSemKUzdR
       webpage: http://homepages.ulb.ac.be/~gkoumout/
       keywords: Online Algorithms, Online Learning, Data Structures
       office: 2.O8.214
@@ -164,40 +164,40 @@ params:
       
     - name: Ben Karsin
       description: Postdoc
-      image: https://ipfs.io/ipfs/QmSEW67JtHEmGE8Gyx4SQycrHycLK7a6PYSw5G5rvSDvmw
+      image: https://ipfs.io/ipfs/QmSJHLz7VHSv4v7dASK75RbEVnNhkjPWqtijRoCQX4uHMK
       webpage: https://benkarsin.com
       office: 2.O8.214
 
     - name: Tony Huynh
       description: Postdoc (Math Department)
-      image: https://ipfs.io/ipfs/QmTQZQBG5QMM51Fpo6VQMNBaWGsBqZPkwGQHSzhsCjTT7f
+      image: https://ipfs.io/ipfs/QmVHq38jR4evknXEid98XYJtjJqbSa5RGNjPT6bsED1Sy6
       webpage: https://sites.google.com/site/matroidintersection
 
     - name: Krystal Guo
       description: Postdoc (Math Department)
-      image: https://ipfs.io/ipfs/QmaQAqMjeSL8MG8NGDvTCCiWWxns8vcKGiKaqpQDfnkUd3
+      image: https://ipfs.io/ipfs/QmPGaoofWb8xnUxPWkw6StRdTpzvctqv6LeRbgBoxQEwBf
       webpage: https://simons.berkeley.edu/people/krystal-guo
 
     - name: Marco Macchia
       description: Postdoc. Former PhD student (Math Department).
-      image: https://ipfs.io/ipfs/QmfUPALGifDH4kkVoH7NjDrXpPkfSkJ7yU3Quuxzqjigbn
+      image: https://ipfs.io/ipfs/QmYQTbMkzEFQeNpTp9UQUVCTNg8eTHaoTaC3YRKGX3tKbS
       webpage: http://homepages.ulb.ac.be/~mmacchia
 
     - name: Yann Barsamian
       description: Postdoc
-      image: https://ipfs.io/ipfs/QmXaVLsMCTQhjwUVRjnFz8qvXk5PSocHJxjeCCf13gntbE
+      image: https://ipfs.io/ipfs/QmbVNsrf6qv6gHshqWKnKuxVE7Sg8u7r5gzgpKKAGiEQDj
       webpage: https://barsamian.am
 
     - name: Seungbum Jo
       description: Postdoc
-      image: https://ipfs.io/ipfs/QmPCn2FVCYLWp4XQ8xaWGKQ6bxAk6MgJKreSknrUS6BSkz
+      image: https://ipfs.io/ipfs/QmWaHyY36FMLGmj7yC4doJPZsfakcvNxAqsYFb7HZhAkkL
       office: 2.O8.110
 
 
     # PhD students
 
     - name: Keno Merckx
-      image: https://ipfs.io/ipfs/QmfC5XE7pPTPfrUy6FywZVHxgnNAF5rBDyYC99dgiEkR34
+      image: https://ipfs.io/ipfs/QmNfPu4wPCVCU8DXab4xK9vXcSzx6vypp32wwzkiLcT4Mo
       webpage: http://homepages.ulb.ac.be/~kmerckx
       description: PhD student
       keywords: Graphs
@@ -205,7 +205,7 @@ params:
 
     - name: Aurélien Ooms
       description: PhD student
-      image: https://ipfs.io/ipfs/Qmd7fiq1Sq9G5b9hd5inHU3GZhPCm424xyKbCeFjGEtFQd
+      image: https://ipfs.io/ipfs/QmaLqjQxyBfDfu23Vm2rW9sNpsnsVSToBmAsmgSAzwSqnm
       webpage: http://homepages.ulb.ac.be/~aureooms
       keywords: "Computational Complexity: Data Structures, Algorithms, Computational Geometry."
       office: 2.O8.214
@@ -213,18 +213,18 @@ params:
 
     - name: Carole Muller
       description: PhD student (Math Department)
-      image: https://ipfs.io/ipfs/QmWQ3vjAjXHTQfRUD77uFSAnjEjjat2vGVENoUhADKjcPE
+      image: https://ipfs.io/ipfs/QmSnQhc2pz6BNbEHyG4gqZziKSoJLvyWFZBGejKJrMuCuk
       webpage: http://student.ulb.ac.be/~camuller
 
     - name: Matthew Drescher
       description: PhD student (Math Department)
-      image: https://ipfs.io/ipfs/QmfP581LiyDm7EEZgBzFCxG5sCuyQuEdjtmgXp1hjDWSMu
+      image: https://ipfs.io/ipfs/QmP5Qjw6Q2MwBrfqJoSm1AMX4mrxbqd1V7QiyM1QqtPEB4
 
 
     # External members
 
     - name: Sébastien Collette
-      image: https://ipfs.io/ipfs/QmXhj22o8Voizc5QEXBJNp4944DXaLAUqMWhFgFL87LbkD
+      image: https://ipfs.io/ipfs/Qmc9gNibXxMu6mfdSGiEQ8iqqvgz6C7aQsoA7F9uGPWTT4
       webpage: http://www.ulb.ac.be/di/algo/secollet
       description: Visiting professor (Maître de Conférence) at ULB. Consultant at Synapsis.
       keywords: Computational geometry, data structures.
@@ -235,18 +235,18 @@ params:
 
     - name: Varunkumar Jayapaul
       description: Former Postdoc
-      image: https://ipfs.io/ipfs/QmSrFZ2AP9dX9G2QyCVmRUNCoz4eNu1QPQdWDVMBSjyRQt
+      image: https://ipfs.io/ipfs/QmYs9ciNCxeAKGyUrsfXgRyAjbkpDHURsMhSVMxdkFsvKc
       email: varunkumarj@gmail.com
 
     - name: Tillmann Miltzow
-      image: https://ipfs.io/ipfs/QmQURgrZnSW9e5zxo7rofTbifj472a7iwTmqapjzxaTRYf
+      image: https://ipfs.io/ipfs/QmcuPVmNr2XeaKZSJHj7J9erqE6bP9dNJfBqHD6SGTyRSd
       webpage: http://sites.google.com/view/miltzow/home
       description: Former Postdoc (Algo group and Math Department). Researcher at [Utrecht University](https://www.uu.nl/en).
       keywords: Computational geometry.
       email: t.miltzow@googlemail.com
 
     - name: Elena Arseneva (Khramtcova)
-      image: https://ipfs.io/ipfs/QmfZ3TCc6JVpQL4D9CEVbdZCudpfN9RHML6AmenxpmUMoi
+      image: https://ipfs.io/ipfs/Qmeh9g8FMbw7R8JjwqnMMKZUThiLUE4TrUCcbFyBXHAx2L
       webpage: http://homepages.ulb.ac.be/~ekhramtc
       description: >
         Assistant Professor (старший преподаватель) in the Mathematics and TCS
@@ -257,14 +257,14 @@ params:
       email: elena.khramtsova@gmail.com
 
     - name: Udo Hoffmann
-      image: https://ipfs.io/ipfs/QmVD2V1tt3HiY8C3v6NwJnzPWkdH8tdrT4LkPHzws5TCDm
+      image: https://ipfs.io/ipfs/Qmam8WBaBD47GVEKnNwSrQVDozy8f6RHop7DgjSHXR4kUW
       webpage: https://udohoffmann.bitbucket.io
       description: Former Postdoc
       keywords: Combinatorial geometry.
       email: udo.hoffmann@ulb.ac.be
 
     - name: Irina Kostitsyna
-      image: https://ipfs.io/ipfs/QmQvBdfpPufgKGCY9X71KEqpkK7mZnEExohqbgH3Z53tGG
+      image: https://ipfs.io/ipfs/QmSBpB5rWZgJQTxwJxL7wc6eaoThMJ1Lr8YSJc74yy2SFq
       webpage: http://homepages.ulb.ac.be/~ikostits
       description: >
         Assistant professor in the Applied Geometric Algorithms
@@ -277,7 +277,7 @@ params:
       description: Software engineer at Google. Former Postdoc.
       webpage: http://andrewwinslow.com
       email: andrew.winslow+ulb@gmail.com
-      image: https://ipfs.io/ipfs/QmWR2L3c7cZ5dewpPTBJJzb89mxgiMZUqiSbzyQxAnkfm6
+      image: https://ipfs.io/ipfs/Qmcj8MfTZUWcV6MLge6WPnne45UBWN673HE7PAQ1ZNPjvt
       keywords: Algorithmic self-assembly, computational geometry
 
     - name: Luis Barba
@@ -288,7 +288,7 @@ params:
         Former PhD student.
       webpage: http://cglab.ca/~lfbarba
       email: luis.barba@inf.ethz.ch
-      image: https://ipfs.io/ipfs/QmNrnrCXKNX8eQeCQ3wqX1T7JiPQooVWecBjkTUrR9B8EW
+      image: https://ipfs.io/ipfs/QmdSoKwMPmp4HLcwDsRUmznAc1PLdFxvGvvpm5oZs5o7am
 
     - name: Vissarion Fisikopoulos
       description: >
@@ -296,7 +296,7 @@ params:
         geometric algorithms for GIS in
         [Boost.Geometry](http://www.boost.org/doc/libs/1_62_0/libs/geometry/doc/html/index.html)
         to support [MySQL](https://www.mysql.com). Former Postdoc.
-      image: https://ipfs.io/ipfs/QmbJbuySR2bps8jz6VdSQb9Y2pjAidfbkP2GqX6Dcumgmz
+      image: https://ipfs.io/ipfs/QmXU7gDQHY71ebsPqJ2GByUqhoTYN3f9hgZix2njDHxrGL
       webpage: https://vissarion.github.io
       keywords: Discrete geometry, polyhedral combinatorics
       email: vissarion.fysikopoulos@oracle.com
@@ -315,14 +315,14 @@ params:
         Former PhD student.
       webpage: http://homepages.ulb.ac.be/~ecamby
       email: Eglantine.Camby@ulb.ac.be
-      image: https://ipfs.io/ipfs/QmUuiSdoEP7h2jQsB2ri98LecTEeUQBtVfeWKQ349SueSo
+      image: https://ipfs.io/ipfs/QmXZNo5wggZLf5gNi4GBRCRVXuA1nmP9sbcCC9t9EuSyAe
 
     - name: Michael Payne
       description: Lecturer, [La Trobe University](https://www.latrobe.edu.au). Former Postdoc.
       webpage: http://www.ms.unimelb.edu.au/~mspayne
       email: mpayne@ulb.ac.be
       keywords: Discrete geometry, geometric graph theory.
-      image: https://ipfs.io/ipfs/QmRXmtEWxpZwedLV5Hgwocz5FzBfgYd1wsbbm4syoTjubS
+      image: https://ipfs.io/ipfs/QmTWHee2FvCyt3rMsJrQ4ikDUdP8KhEvxAQkiruUnLXJqN
 
     - name: Greg Aloupis
       description: >
@@ -330,7 +330,7 @@ params:
         Former Chargé de recherches du FNRS (FNRS Postdoctoral Researcher).
       keywords:  Computational geometry
       email: aloupis.greg@gmail.com
-      image: https://ipfs.io/ipfs/QmaJ5xL5ayuAidGnYJ8C79SxEZ31uXmcbuPG8vuF1xkQxi
+      image: https://ipfs.io/ipfs/QmSHb8Wp8Tz5tsMHja9xLqXLR6i4J59aqxvAAHqJXCMBT8
       webpage: http://cg.scs.carleton.ca/~greg
 
     - name: Matias Korman
@@ -340,46 +340,46 @@ params:
         Memory constrained algorithms,
         Battery management in ad-hoc networks.
       email: Matias.Korman@tufts.edu
-      image: https://ipfs.io/ipfs/QmXCywhBwRszxqteZDhYcAuJymvNhB1VUqaBaJEUpqrk2g
+      image: https://ipfs.io/ipfs/QmSykYbj91EHiAGACxHYTKBCUZt7gKMSVoMt1nfXa5QQok
       webpage: https://engineering.tufts.edu/people/faculty/matias-korman
 
     - name: Marcin Kaminski
       description: Chargé de recherches du FNRS (FNRS Postdoctoral Researcher).
       keywords: Graph theory, Algorithms.
       email: Marcin.Kaminski@ulb.ac.be
-      image: https://ipfs.io/ipfs/Qme5HJA6k5hQXkzwpoh4RRXyLoi3jLTLDt2LoHBNxowDDH
+      image: https://ipfs.io/ipfs/QmT9KnjjNjxvXMuoUrR5afVeLwmKa4YM8feF5S7Ceb9a9r
       webpage: http://rutcor.rutgers.edu/~mkaminski
 
     - name: Pegah Kamousi
       keywords: Probabilistic Optimization, Computational Geometry
       email: pegahk@gmail.com
-      image: https://ipfs.io/ipfs/QmQ6GNdTTXKP33svqpEXneHPvN9a3bQpUwrFeBf4ZaBZWX
+      image: https://ipfs.io/ipfs/QmVDUzYQ6JrFNjRzxK62HqWpsZB3srpT7XSGRWPLEKzapu
       description: Former Postdoc
 
     - name: Maria Saumell
       keywords: Computational Geometry
       email: maria.saumell.m@gmail.com
-      image: https://ipfs.io/ipfs/QmWsbhrnqqeib4vd9BG1nzdtPx3AXJHq9XwcxUy1Dqxg5u
+      image: https://ipfs.io/ipfs/QmSbrH2BZ1gFvmBAaHjurEutcQBJDXKiX8BhTCuYsZzf6W
       webpage: http://home.zcu.cz/~saumell
 
     - name: Luca Castelli-Aleardi
-      image: https://ipfs.io/ipfs/QmT6xPNSnM7BPLzGApGUiFeAeSzG6Tr43DwX8VrGvXmN7S
+      image: https://ipfs.io/ipfs/Qmc28SAsditn8dJcwozaPWm9CuGkcuHkx8khNKsKMDYZ5w
       webpage: http://www.lix.polytechnique.fr/~amturing
 
     - name: Nathann Cohen
-      image: https://ipfs.io/ipfs/QmTESbccAAmoMQSW4faEK9YnhaUGhTVHLY7cVjzccJ4Zvt
+      image: https://ipfs.io/ipfs/QmVS1TqybCWBR9R6jv7AYbZyzVu46t1shT6pcgm7cdS8nV
       webpage: http://steinertriples.fr/ncohen
 
     - name: Raphael Jungers
-      image: https://ipfs.io/ipfs/QmdPaZajPa7PJFmsH7j6QaDMLGXZtMgkLAPL3FtcMeFAFr
+      image: https://ipfs.io/ipfs/QmarvCjveLb73Wpr1LdTbv9NkTRAETDUW6XHZSp1V1qcNC
       webpage: http://perso.uclouvain.be/raphael.jungers
 
     - name: Perouz Taslakian
-      image: https://ipfs.io/ipfs/Qma2Mo3y5C8CRHsXjhL73BQ3mcfUaTcTVwHeAFCh4CSLou
+      image: https://ipfs.io/ipfs/QmeoPisQDmiWnt291rQsGWzVyn6N6pxfxSCVZXgaGxnA9c
       webpage: http://homepages.ulb.ac.be/~ptaslaki
 
     - name: Karim Douïeb
-      image: https://ipfs.io/ipfs/QmcMmYXaKMSBDbgmDvTUdwDqCMGZjqQegCWypGrms8RMyM
+      image: https://ipfs.io/ipfs/QmfW2A7MhBjb9v11jULzHKzsiNdqRC3mDoebjY252U6uDb
       webpage: http://www.ulb.ac.be/di/algo/kdouieb
       description: Co-Founder - [Jetpack.AI](https://jetpack.ai). Former PhD student.
 
@@ -387,121 +387,121 @@ params:
   visitors:
 
     - name: Maarten Löffler
-      image: https://ipfs.io/ipfs/QmZbGWfHEBNfsGUK6NxrbcpBFtyy75MJ6eiVVV65rHVaLr
+      image: https://ipfs.io/ipfs/QmSGDjSZ1hV795GUf9ocQiWPu6eNFAsdQTeqmbotR3SuGj
       visiting: May 2019
       webpage: https://www.staff.science.uu.nl/~loffl001/about.html
 
     - name: Hugo Akitaya
-      image: https://ipfs.io/ipfs/QmW4W51M86NnAWqtxbESprBYgndWorCRZgK64YYrbVhFjv
+      image: https://ipfs.io/ipfs/QmcHiCdbvavQo7Ydn7udJbVXdAqzaVeWPScb6CoisY6XZQ
       visiting: May 2019
       webpage: https://www.linkedin.com/in/hugo-akitaya-a9b5b9108
 
     - name: Nodari Sitchinava
-      image: https://ipfs.io/ipfs/QmeSwWPWKbBZeh7JSaJ9ErGEfRA5HBZKyhh3tCtRH6oWas
+      image: https://ipfs.io/ipfs/QmYTxCebi7wLQD7QDtunQfKz6G7ToCrTE5U7EKw4KQE7SW
       visiting: May 2019
       webpage: https://www2.hawaii.edu/~nodari
 
     - name: Carlos Hidalgo-Toscano
-      image: https://ipfs.io/ipfs/QmQPKE5A6aZv1ENroCGZhNZnekhjT77mmDEdiGtJVj1or2
+      image: https://ipfs.io/ipfs/QmRsgEDQbPDu6KiEvJqWZaFd9PEfAEJekXkEr44iYHGuGS
       visiting: May 2019
       webpage: https://scholar.google.com/citations?user=xVoG_iMAAAAJ&hl=en
 
     - name: Jit Bose
-      image: https://ipfs.io/ipfs/QmXsH97TB8r2fi6wFLb7bPSvQ1BzJwNnmNoHbwVM4WSnTe
+      image: https://ipfs.io/ipfs/QmapRrKo5wEzZPMFL1qT4qFCLSRJXLMcq3y3sSikQRaYJU
       visiting: May 2019
       webpage: https://jitbose.ca
 
     - name: Jules Wulms
-      image: https://ipfs.io/ipfs/QmdRUyknUAPUFHbGR8Gbd7AWvz4VPjwUqvUPDNgyoXCKQh
+      image: https://ipfs.io/ipfs/QmXZpHSFpA1jQV5TtV354kVVjGR7HJgwkkdmVgVoj4RzLS
       visiting: May 2019
       webpage: https://www.win.tue.nl/~jwulms
 
     - name: Sergio Cabello
-      image: https://ipfs.io/ipfs/QmUv8qbTbkmjzMCjzNszTpZLzYqyE65bno8DQTsiru9Px5
+      image: https://ipfs.io/ipfs/QmZffhbHYVMKYQ763cCD2Hbc8S5xrAaMg6eSKJWcVkZgSG
       visiting: January 2019
       webpage: https://www.fmf.uni-lj.si/~cabello
 
     - name: Maarten Löffler
-      image: https://ipfs.io/ipfs/QmZbGWfHEBNfsGUK6NxrbcpBFtyy75MJ6eiVVV65rHVaLr
+      image: https://ipfs.io/ipfs/QmSGDjSZ1hV795GUf9ocQiWPu6eNFAsdQTeqmbotR3SuGj
       visiting: November 2018
       webpage: https://www.staff.science.uu.nl/~loffl001/about.html
 
     - name: Lena Yuditsky
-      image: https://ipfs.io/ipfs/QmVtzbnAP7moyyg2gze2E1AQ9s4Vm4AxZbb3WavRjEJh8K
+      image: https://ipfs.io/ipfs/QmRyDJCiCULdDYJPi172YGh1mzDtvgtYx1Sq8SDaSbWtnP
       visiting: October 2018
       webpage: http://www.math.kit.edu/iag6/~yuditsky
 
     - name: Bartosz Walczak
-      image: https://ipfs.io/ipfs/QmeqdVqDEzSKsic5qC1AZfHhQgsMJCJus81fUPsGcXUDet
+      image: https://ipfs.io/ipfs/QmQL8Bf4e1DqEBgjhDgSFs9145YCP9fHwfj5MCs6gRvA91
       visiting: August 2018
       webpage: http://www.tcs.uj.edu.pl/walczak
 
     - name: Riko Jacob
-      image: https://ipfs.io/ipfs/QmVAML1Axvr5fsSa266tYKYsB5kqnBp7PeHS8gryFnTn6J
+      image: https://ipfs.io/ipfs/QmTGVbAdCHsv9qdFN2X8zZGuTNu9yiMf1taaQbFLEaGoPd
       visiting: July 2018
       webpage: https://www.itu.dk/people/rikj
 
     - name: Konstantinos A. Tsakalidis
-      image: https://ipfs.io/ipfs/QmPugFGipV3uNau4jQAwUwpqnJR33UhHVHibMTNgZVoggs
+      image: https://ipfs.io/ipfs/QmfRj79fh21pAH1kmxp4YxjXrnBpobsVsQ69S9Peo5iSng
       visiting: July 2018
       webpage: http://www.madalgo.au.dk/~tsakalid
 
     - name: Nodari Sitchinava
-      image: https://ipfs.io/ipfs/QmeSwWPWKbBZeh7JSaJ9ErGEfRA5HBZKyhh3tCtRH6oWas
+      image: https://ipfs.io/ipfs/QmYTxCebi7wLQD7QDtunQfKz6G7ToCrTE5U7EKw4KQE7SW
       visiting: July 2018
       webpage: https://www2.hawaii.edu/~nodari
 
     - name: Torsten Ueckerdt
-      image: https://ipfs.io/ipfs/QmfDBMyXKo6Vs3o4cLKfYc8VwsT5XBjXQx71vru88Q74jZ
+      image: https://ipfs.io/ipfs/QmdoSv4D7rfSYYSUqbHFs4eCqwG4icYWye8VrGWUMscjPQ
       visiting: April 2018
       webpage: http://www.math.kit.edu/iag6/~ueckerdt/en
 
     - name: Kolja Knauer
-      image: https://ipfs.io/ipfs/QmQZjzbJcdxRoGpTfTNbSxkPwQqXkCmKCkkHSRucJghEtn
+      image: https://ipfs.io/ipfs/QmXJMQvzgQ45fepdgRvzmbPVxjLmJFRbuxLbCH6oUZDBFC
       visiting: April 2018
       webpage: http://pageperso.lif.univ-mrs.fr/~kolja.knauer
 
     - name: Piotr Micek
-      image: https://ipfs.io/ipfs/QmddzmK2Y6J7YrPaFWzo74HiDfJQpfT2Bc9kgQSotBoXNQ
+      image: https://ipfs.io/ipfs/QmS1osrfjsqVfZaS8gQf1PbBcEwhszbUW3m4omQq9G3L12
       visiting: April 2018
       webpage: http://page.math.tu-berlin.de/~micek
 
     - name: Sander Gribling
-      image: https://ipfs.io/ipfs/QmbCqo88Ui4KixgWQ7D4BmFXwPHWkQ8uFNFSeg5pAwcwJj
+      image: https://ipfs.io/ipfs/Qmbz27eg6AE3bDVbGUu7phzRcDjZJqLrACG73Edx3QMV5o
       visiting: April 2018
       webpage: https://www.cwi.nl/people/sander-gribling
 
     - name: Natalia Garcia Colin
-      image: https://ipfs.io/ipfs/QmVS6ZxV4VfDcVDgkL1qb7vNqmgp5bhD7KCtDhBjAauyiY
+      image: https://ipfs.io/ipfs/QmZxYrguEftwRTzKThwR73CVCHcVJGrv3apoWxosakjxdi
       visiting: March - April 2018
       webpage: https://www.infotec.mx/es_mx/infotec/natalia_garcia_colin
 
     - name: Ahmad Abdi
-      image: https://ipfs.io/ipfs/QmPcPWrrFBvzzxCpDM6MGqA7WrMx2pap2e5n3AqqxCnzWd
+      image: https://ipfs.io/ipfs/QmeMQ6FR96PnqHAvFPYa3qh8e2dJfpwbLr667pcYTs91gA
       visiting: March 2018
       webpage: https://www.math.uwaterloo.ca/~a3abdi
 
     - name: Mikkel Abrahamsen
-      image: https://ipfs.io/ipfs/QmZdw7CEYoPJjeqih7bDooRmZ8arigpaHoKXdr1wSSiRFr
+      image: https://ipfs.io/ipfs/QmevTbnQcyGhhXUtdzqbgyCbePWTAjvY151TDxjfHtoVAC
       visiting: February 2018
       webpage: http://diku.dk/english/staff/?pure=en/persons/289414
 
     - name: Grigorios Koumoutsos
-      image: https://ipfs.io/ipfs/QmU3R3HAQ1tgkMx5ndR3pVoWtrJQJaCRxfedBABPkSxbcY
+      image: https://ipfs.io/ipfs/QmcqbdmzLsajmHk3AUCSz1ynJvf9iGYmVf4TSqSemKUzdR
       visiting: February 2018
       webpage: https://www.win.tue.nl/~gkoumout
 
     - name: Thatchapol Saranurak
-      image: https://ipfs.io/ipfs/QmTw7x8dqyT7AAJcZ4VbYn7FfFPxHzdGfjh63PKqbBNMJy
+      image: https://ipfs.io/ipfs/QmVaDer1cUJYLMn2LBW1RXpkwBGe3LzhuSb3MwQGt8sG41
       visiting: January 2018
       webpage: https://sites.google.com/site/thsaranurak
 
     - name: Luis Barba
-      image: https://ipfs.io/ipfs/QmNrnrCXKNX8eQeCQ3wqX1T7JiPQooVWecBjkTUrR9B8EW
+      image: https://ipfs.io/ipfs/QmdSoKwMPmp4HLcwDsRUmznAc1PLdFxvGvvpm5oZs5o7am
       visiting: November 2017
       webpage: http://cglab.ca/~lfbarba
 
     - name: Wouter Cames van Batenburg
-      image: https://ipfs.io/ipfs/QmZmg8woxSuzCrXLdR15ofLxHFP8MW8CKDRmXPcfD1TJtX
+      image: https://ipfs.io/ipfs/QmQ4PsumUV2686hqMV5W9AQiExWRdK4NnPLL2x4nGTkqYa
       visiting: November 2017
       webpage: https://www.math.ru.nl/~woutercvb
