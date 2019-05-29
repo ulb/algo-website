@@ -6,6 +6,8 @@ shift
 for file in "$@" ; do
 	oldkey="$(basename "$file")"
 	newkey="$(ipfs add "$file" 2>/dev/null | cut -d' ' -f2)"
-	echo "replacing $oldkey by $newkey in $config"
-	sed "s/$oldkey/$newkey/g" -i "$config"
+	if [ "$newkey" != "$oldkey" ] ; then
+		echo "replacing $oldkey by $newkey in $config"
+		sed "s/$oldkey/$newkey/g" -i "$config"
+	fi
 done

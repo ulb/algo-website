@@ -1,0 +1,12 @@
+#!/usr/bin/env sh
+
+maxwidth=400
+
+# There seems to be a problem with convert changing the pixels of the image
+# even though resizing should not occur. For now, we are using identify to
+# skip convert when possible.
+if test identify -format '%W' "$1" -gt "$maxwidth" ; then
+	convert -resize "${maxwidth}x>" "$1" "$2"
+else
+	cp "$1" "$2"
+fi

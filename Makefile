@@ -32,8 +32,7 @@ optimize: $(IMAGES_OPT)
 
 .cache/sma/%: .cache/src/%
 	@mkdir -p $(dir $@)
-	cp $< $@
-	convert -resize 400x\> $< $@
+	sh .bin/resize-image $< $@
 
 .cache/opt/%: .cache/sma/%
 	@mkdir -p $(dir $@)
