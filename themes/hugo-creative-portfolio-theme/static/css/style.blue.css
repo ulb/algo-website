@@ -2136,14 +2136,23 @@ a.list-group-item.active > .badge,
 }
 
 /*custom*/
+a.email {
+  display: inline-block;
+  max-width: 100%;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  word-break: normal;
+}
+
+a {
+  word-break: break-word;
+}
+
 .small-navbar-menu {
-  width: 100%;
-  position: absolute;
-  top:0;
-  left:0;
   list-style-type: none;
-  /*padding-left: 20px;*/
-  margin-bottom: 20px;
+  padding: 0px 20px 0px 20px;
+  margin: -40px -20px -20px -20px;
+  text-align: center;
   background-color: #2065a1;
 }
 .small-navbar-menu li {
