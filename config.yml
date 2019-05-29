@@ -388,6 +388,15 @@ params:
 
   visitors:
 
+    - name: Matthias Mnich
+      visiting: May 2019
+      webpage: http://tcs.cs.uni-bonn.de/doku.php?id=staff:matthiasmnich
+
+    - name: Michel Habib
+      image: https://ipfs.io/ipfs/QmSPFuBVY5mS76REi86u1ifN1qTn9eMWY7FSY2G5aPCqKt
+      visiting: May 2019
+      webpage: https://www.irif.fr/~habib
+
     - name: Maarten Löffler
       image: https://ipfs.io/ipfs/QmSGDjSZ1hV795GUf9ocQiWPu6eNFAsdQTeqmbotR3SuGj
       visiting: May 2019
@@ -397,6 +406,11 @@ params:
       image: https://ipfs.io/ipfs/QmcHiCdbvavQo7Ydn7udJbVXdAqzaVeWPScb6CoisY6XZQ
       visiting: May 2019
       webpage: https://www.linkedin.com/in/hugo-akitaya-a9b5b9108
+
+    - name: Jannik Matuschke
+      image: https://ipfs.io/ipfs/QmTnwrWrCvxpdemdj8KecYu3CcNx7Pu6V8k8ceDkKvmpLj
+      visiting: May 2019
+      webpage: https://sites.google.com/view/jannikmatuschke
 
     - name: Nodari Sitchinava
       image: https://ipfs.io/ipfs/QmYTxCebi7wLQD7QDtunQfKz6G7ToCrTE5U7EKw4KQE7SW
