@@ -414,7 +414,7 @@ params:
 
     - name: Nodari Sitchinava
       image: https://ipfs.io/ipfs/QmYTxCebi7wLQD7QDtunQfKz6G7ToCrTE5U7EKw4KQE7SW
-      visiting: May 2019
+      visiting: May 2019, July 2018
       webpage: https://www2.hawaii.edu/~nodari
 
     - name: Carlos Hidalgo-Toscano
@@ -461,11 +461,6 @@ params:
       image: https://ipfs.io/ipfs/QmfRj79fh21pAH1kmxp4YxjXrnBpobsVsQ69S9Peo5iSng
       visiting: July 2018
       webpage: https://cgi.csc.liv.ac.uk/~tsakalid
-
-    - name: Nodari Sitchinava
-      image: https://ipfs.io/ipfs/QmYTxCebi7wLQD7QDtunQfKz6G7ToCrTE5U7EKw4KQE7SW
-      visiting: July 2018
-      webpage: https://www2.hawaii.edu/~nodari
 
     - name: Torsten Ueckerdt
       image: https://ipfs.io/ipfs/QmdoSv4D7rfSYYSUqbHFs4eCqwG4icYWye8VrGWUMscjPQ
