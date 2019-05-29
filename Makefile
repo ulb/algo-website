@@ -44,4 +44,4 @@ pin: config.yml
 	@sh .bin/list-images $< | sh .bin/pin-images
 
 clean:
-	rm -rf public{,_html} .cache
+	rm -rf public{,_html} .cache resources
