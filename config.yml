@@ -213,10 +213,6 @@ params:
       image: https://ipfs.io/ipfs/QmSnQhc2pz6BNbEHyG4gqZziKSoJLvyWFZBGejKJrMuCuk
       webpage: http://student.ulb.ac.be/~camuller
 
-    - name: Matthew Drescher
-      description: PhD student (Math Department)
-      image: https://ipfs.io/ipfs/QmP5Qjw6Q2MwBrfqJoSm1AMX4mrxbqd1V7QiyM1QqtPEB4
-
 
     # External members
 
