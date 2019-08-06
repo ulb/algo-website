@@ -144,11 +144,6 @@ params:
 
     # Postdocs
 
-    - name: Suman Bala
-      description: Postdoc (Algo & QualSec)
-      image: https://ipfs.io/ipfs/QmQqPvqnhDVgzrkKKnCsQAiVuFxnV6YHBjoj9WszhBBUuP
-      email: suman1005@gmail.com
-
     - name: Wouter Cames van Batenburg
       image: https://ipfs.io/ipfs/QmQ4PsumUV2686hqMV5W9AQiExWRdK4NnPLL2x4nGTkqYa
       webpage: http://homepages.ulb.ac.be/~wcamesva/
@@ -185,11 +180,6 @@ params:
       image: https://ipfs.io/ipfs/QmbVNsrf6qv6gHshqWKnKuxVE7Sg8u7r5gzgpKKAGiEQDj
       webpage: https://barsamian.am
 
-    - name: Seungbum Jo
-      description: Postdoc
-      image: https://ipfs.io/ipfs/QmWaHyY36FMLGmj7yC4doJPZsfakcvNxAqsYFb7HZhAkkL
-      office: 2.O8.110
-
 
     # PhD students
 
@@ -225,6 +215,15 @@ params:
 
 
   alumni:
+
+    - name: Suman Bala
+      description: Former Postdoc (Algo & QualSec)
+      image: https://ipfs.io/ipfs/QmQqPvqnhDVgzrkKKnCsQAiVuFxnV6YHBjoj9WszhBBUuP
+      email: suman1005@gmail.com
+
+    - name: Seungbum Jo
+      description: Former Postdoc
+      image: https://ipfs.io/ipfs/QmWaHyY36FMLGmj7yC4doJPZsfakcvNxAqsYFb7HZhAkkL
 
     - name: Marco Macchia
       description: Former Postdoc and PhD student (Math Department).
