@@ -144,6 +144,11 @@ params:
 
     # Postdocs
 
+    - name: François Pirot
+      image: https://ipfs.c.ovfefe.cf/ipfs/QmdaydUx3kcKoY7hVFeg9QyMZkoi4jgw66dobqfWTUsJ8t
+      webpage: https://lbgi.fr/~pirot
+      description: Postdoc
+
     - name: Wouter Cames van Batenburg
       image: https://ipfs.c.ovfefe.cf/ipfs/QmQ4PsumUV2686hqMV5W9AQiExWRdK4NnPLL2x4nGTkqYa
       webpage: http://homepages.ulb.ac.be/~wcamesva/
