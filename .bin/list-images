@@ -1,4 +1,4 @@
 #!/usr/bin/env sh
 
-prefix='^ *image: https://ipfs.io/ipfs/'
+prefix='^ *image: https://ipfs.c.ovfefe.cf/ipfs/'
 grep "$prefix" "$@" | sed -E 's|'"$prefix"'([a-zA-Z0-9]*)$|\1|g'
