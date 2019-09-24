@@ -164,22 +164,6 @@ params:
       office: 2.O8.214
       email: gkoumout@ulb.ac.be
 
-    - name: Ben Karsin
-      description: Postdoc
-      image: https://ipfs.c.ovfefe.cf/ipfs/QmSJHLz7VHSv4v7dASK75RbEVnNhkjPWqtijRoCQX4uHMK
-      webpage: https://benkarsin.com
-      office: 2.O8.214
-
-    - name: Tony Huynh
-      description: Postdoc (Math Department)
-      image: https://ipfs.c.ovfefe.cf/ipfs/QmVHq38jR4evknXEid98XYJtjJqbSa5RGNjPT6bsED1Sy6
-      webpage: https://sites.google.com/site/matroidintersection
-
-    - name: Krystal Guo
-      description: Postdoc (Math Department)
-      image: https://ipfs.c.ovfefe.cf/ipfs/QmPGaoofWb8xnUxPWkw6StRdTpzvctqv6LeRbgBoxQEwBf
-      webpage: https://simons.berkeley.edu/people/krystal-guo
-
     - name: Yann Barsamian
       description: Postdoc
       image: https://ipfs.c.ovfefe.cf/ipfs/QmbVNsrf6qv6gHshqWKnKuxVE7Sg8u7r5gzgpKKAGiEQDj
@@ -187,13 +171,6 @@ params:
 
 
     # PhD students
-
-    - name: Keno Merckx
-      image: https://ipfs.c.ovfefe.cf/ipfs/QmNfPu4wPCVCU8DXab4xK9vXcSzx6vypp32wwzkiLcT4Mo
-      webpage: http://homepages.ulb.ac.be/~kmerckx
-      description: PhD student
-      keywords: Graphs
-      email: kmerckx@ulb.ac.be
 
     - name: Aurélien Ooms
       description: PhD student
@@ -220,6 +197,28 @@ params:
 
 
   alumni:
+
+    - name: Krystal Guo
+      description: Former Postdoc (Math Department)
+      image: https://ipfs.c.ovfefe.cf/ipfs/QmPGaoofWb8xnUxPWkw6StRdTpzvctqv6LeRbgBoxQEwBf
+      webpage: https://simons.berkeley.edu/people/krystal-guo
+
+    - name: Tony Huynh
+      description: Former Postdoc (Math Department)
+      image: https://ipfs.c.ovfefe.cf/ipfs/QmVHq38jR4evknXEid98XYJtjJqbSa5RGNjPT6bsED1Sy6
+      webpage: https://sites.google.com/site/matroidintersection
+
+    - name: Keno Merckx
+      image: https://ipfs.c.ovfefe.cf/ipfs/QmNfPu4wPCVCU8DXab4xK9vXcSzx6vypp32wwzkiLcT4Mo
+      webpage: http://homepages.ulb.ac.be/~kmerckx
+      description: Former PhD student
+      keywords: Graphs
+      email: kmerckx@ulb.ac.be
+
+    - name: Ben Karsin
+      description: Former Postdoc
+      image: https://ipfs.c.ovfefe.cf/ipfs/QmSJHLz7VHSv4v7dASK75RbEVnNhkjPWqtijRoCQX4uHMK
+      webpage: https://benkarsin.com
 
     - name: Suman Bala
       description: Former Postdoc (Algo & QualSec)
