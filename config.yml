@@ -77,6 +77,12 @@ params:
     - name: "CS Seminars"
       url: "https://di.ulb.ac.be/seminaires"
 
+  # see https://getbootstrap.com/docs/3.3/components/#alerts
+  # for available alert kinds
+  alerts:
+    - kind: "info"
+      message: "**Heads up!** Announcing [Les 21ièmes Journées Graphes et Algorithmes (JGA 2019)](https://di.ulb.ac.be/algo/jga2019) 13-15 Nov 2019 in Brussels ([https://di.ulb.ac.be/algo/jga2019](https://di.ulb.ac.be/algo/jga2019))."
+
   #social:
     #facebook:
     #googleplus:
