@@ -18,20 +18,20 @@ params:
   description: Website for the algo group @ ULB.
   #copyright:
   mobileNavAbout: >
-    <b><a href="http://algo.ulb.be">Algorithms Research Group</a></b><br>
-    <a href="http://www.ulb.ac.be/facs/sciences/info/index-en.html">Computer Science Department</a><br>
-    <a href="http://www.ulb.ac.be/facs/sciences">Faculté des Sciences</a><br>
-    <a href="http://www.ulb.ac.be">Université libre de Bruxelles (ULB)</a><br>
+    <b><a href="https://algo.ulb.be">Algorithms Research Group</a></b><br>
+    <a href="https://www.ulb.ac.be/facs/sciences/info/index-en.html">Computer Science Department</a><br>
+    <a href="https://www.ulb.ac.be/facs/sciences">Faculté des Sciences</a><br>
+    <a href="https://ulb.be/en">Université libre de Bruxelles (ULB)</a><br>
     Campus de la Plaine, CP 212<br>
     B-1050 Brussels, Belgium<br>
   sidebarAbout:
     - >
         <img src="/img/delaunay.png" alt="" class="img-responsive">
     - >
-      <b><a href="http://algo.ulb.be">Algorithms Research Group</a></b><br>
-      <a href="http://www.ulb.ac.be/facs/sciences/info/index-en.html">Computer Science Department</a><br>
-      <a href="http://www.ulb.ac.be/facs/sciences">Faculté des Sciences</a><br>
-      <a href="http://www.ulb.ac.be">Université libre de Bruxelles (ULB)</a><br>
+      <b><a href="https://algo.ulb.be">Algorithms Research Group</a></b><br>
+      <a href="https://www.ulb.ac.be/facs/sciences/info/index-en.html">Computer Science Department</a><br>
+      <a href="https://www.ulb.ac.be/facs/sciences">Faculté des Sciences</a><br>
+      <a href="https://ulb.be/en">Université libre de Bruxelles (ULB)</a><br>
       Campus de la Plaine, CP 212<br>
       B-1050 Brussels, Belgium<br>
     - >
