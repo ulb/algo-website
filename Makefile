@@ -1,4 +1,4 @@
-.PHONY: all build upload optimize pin clean
+.PHONY: all build serv upload optimize pin clean
 .SECONDARY:
 
 THEMES := $(shell find themes -type f -print)
@@ -13,6 +13,9 @@ IMAGES_OPT := $(addprefix .cache/opt/,$(IMAGES_KEY))
 all: build upload
 
 build: public
+
+serv:
+	hugo server
 
 public: config.yml $(THEMES) $(STATIC) $(CONTENT)
 	hugo
