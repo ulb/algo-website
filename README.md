@@ -10,9 +10,9 @@ Website for the algo group @ ULB
 
  2. In your pull request, give a link to a picture of yourself.
 
-##### Upload
+##### Deploy
 ```console
-make clean build upload
+make deploy
 ```
 
 #### Dev
@@ -24,7 +24,7 @@ make build
 
 ##### Serve locally
 ```console
-hugo server
+make serv
 ```
 
 ##### Optimize images

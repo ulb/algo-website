@@ -1,4 +1,4 @@
-.PHONY: all build serv upload optimize pin clean
+.PHONY: all deploy build serv upload optimize pin clean nuke
 .SECONDARY:
 
 THEMES := $(shell find themes -type f -print)
@@ -10,9 +10,11 @@ IMAGES_SRC := $(addprefix .cache/src/,$(IMAGES_KEY))
 IMAGES_SMA := $(addprefix .cache/sma/,$(IMAGES_KEY))
 IMAGES_OPT := $(addprefix .cache/opt/,$(IMAGES_KEY))
 
-all: build upload
+all: build
 
 build: public
+
+deploy: clean build upload
 
 serv:
 	hugo server
@@ -46,4 +48,7 @@ pin: config.yml
 	@sh .bin/list-images $< | sh .bin/pin-images
 
 clean:
-	rm -rf public{,_html} .cache resources
+	rm -rf public{,_html}
+
+nuke: clean
+	rm -rf .cache resources
