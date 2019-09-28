@@ -24,9 +24,7 @@ public: config.yml $(THEMES) $(STATIC) $(CONTENT)
 	sed 's:<priority>0</priority>:<priority>1</priority>:g' public/sitemap.xml -i
 
 upload:
-	rm -rf public_html
-	cp -r public{,_html}
-	scp -r public_html/ aureooms@resu5.ulb.ac.be:/home/web1343/
+	scp -r public/. aureooms@resu5.ulb.ac.be:/home/web1343/public_html/
 
 optimize: $(IMAGES_OPT)
 	@sh .bin/update-config config.yml $^
