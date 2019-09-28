@@ -1,6 +1,8 @@
 .PHONY: all deploy build serv upload optimize pin clean nuke
 .SECONDARY:
 
+HUGO := hugo --gc
+
 THEMES := $(shell find themes -type f -print)
 STATIC := $(shell find static -type f -print)
 CONTENT := $(shell find content -type f -print)
@@ -17,10 +19,10 @@ build: public
 deploy: clean build upload
 
 serv:
-	hugo server
+	$(HUGO) server
 
 public: config.yml $(THEMES) $(STATIC) $(CONTENT)
-	hugo
+	$(HUGO)
 	sed 's:<priority>0</priority>:<priority>1</priority>:g' public/sitemap.xml -i
 
 upload:
