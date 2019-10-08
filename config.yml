@@ -183,6 +183,10 @@ params:
       image: https://ipfs.c.ovfefe.cf/ipfs/QmSnQhc2pz6BNbEHyG4gqZziKSoJLvyWFZBGejKJrMuCuk
       webpage: http://student.ulb.ac.be/~camuller
 
+    # Interns
+
+    - name: Leo Valque
+      description: Intern
 
     # External members
 
