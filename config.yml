@@ -178,14 +178,6 @@ params:
 
     # PhD students
 
-    - name: Aurélien Ooms
-      description: PhD student
-      image: https://ipfs.c.ovfefe.cf/ipfs/QmaLqjQxyBfDfu23Vm2rW9sNpsnsVSToBmAsmgSAzwSqnm
-      webpage: http://homepages.ulb.ac.be/~aureooms
-      keywords: "Computational Complexity: Data Structures, Algorithms, Computational Geometry."
-      office: 2.O8.214
-      email: aureooms@ulb.ac.be
-
     - name: Carole Muller
       description: PhD student (Math Department)
       image: https://ipfs.c.ovfefe.cf/ipfs/QmSnQhc2pz6BNbEHyG4gqZziKSoJLvyWFZBGejKJrMuCuk
@@ -203,6 +195,14 @@ params:
 
 
   alumni:
+
+    - name: Aurélien Ooms
+      description: Former PhD student
+      image: https://ipfs.c.ovfefe.cf/ipfs/QmaLqjQxyBfDfu23Vm2rW9sNpsnsVSToBmAsmgSAzwSqnm
+      webpage: http://homepages.ulb.ac.be/~aureooms
+      keywords: "Computational Complexity: Data Structures, Algorithms, Computational Geometry."
+      email: aureooms@ulb.ac.be
+
 
     - name: Krystal Guo
       description: Former Postdoc (Math Department)
