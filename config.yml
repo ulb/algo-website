@@ -69,8 +69,8 @@ params:
     - name: "Visitors"
       url: "visitors/"
 
-    - name: "Events"
-      url: "events/"
+    - name: "Algo Lunch"
+      url: "events/lunches/"
 
   extlinks:
     # External nav links in the side bar
