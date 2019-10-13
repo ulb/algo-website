@@ -60,7 +60,7 @@ params:
 
   navlinks:
     # Nav links in the side bar
-    - name: "The team"
+    - name: "The Team"
       url: ""
 
     - name: "Alumni"
