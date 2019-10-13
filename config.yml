@@ -69,11 +69,11 @@ params:
     - name: "Visitors"
       url: "visitors/"
 
+    - name: "Events"
+      url: "events/"
+
   extlinks:
     # External nav links in the side bar
-    - name: "Algo Lunch"
-      url: "https://di.ulb.ac.be/algo/gjoret/algolunch.html"
-
     - name: "CS Seminars"
       url: "https://di.ulb.ac.be/seminaires"
 
