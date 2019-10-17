@@ -187,6 +187,11 @@ params:
 
     - name: Leo Valque
       description: Intern
+      
+    - name: François Pitois
+      description: Intern
+      image: http://perso.ens-lyon.fr/francois.pitois/portrait.jpg
+      email: francois (dot) pitois (at) ens-lyon (dot) fr
 
     # External members
 
