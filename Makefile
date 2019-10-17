@@ -1,6 +1,8 @@
 .PHONY: all deploy build serv upload optimize pin clean nuke
 .SECONDARY:
 
+DEPLOYER ?= aureooms
+
 HUGO := hugo --gc
 
 THEMES := $(shell find themes -type f -print)
@@ -26,7 +28,7 @@ public: config.yml $(THEMES) $(STATIC) $(CONTENT)
 	sed 's:<priority>0</priority>:<priority>1</priority>:g' public/sitemap.xml -i
 
 upload:
-	scp -r public/. aureooms@resu5.ulb.ac.be:/home/web1343/public_html/
+	scp -r public/. $(DEPLOYER)@resu5.ulb.ac.be:/home/web1343/public_html/
 
 optimize: $(IMAGES_OPT)
 	@sh .bin/update-config config.yml $^
