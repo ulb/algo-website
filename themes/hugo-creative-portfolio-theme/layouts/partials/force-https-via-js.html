@@ -1,0 +1,8 @@
+<script>
+  // https://stackoverflow.com/q/4723213/1582182
+  if (window.location.protocol !== 'https:') {
+    var restOfLocation = window.location.href.substring(window.location.protocol.length);
+    var secureLocation = 'https:' + restOfLocation;
+    window.location.replace(secureLocation);
+  }
+</script>
