@@ -25,7 +25,6 @@ serv:
 
 public: config.yml $(THEMES) $(STATIC) $(CONTENT)
 	$(HUGO)
-	sed 's:<priority>0</priority>:<priority>1</priority>:g' public/sitemap.xml -i
 
 upload:
 	scp -r public/. $(DEPLOYER)@resu5.ulb.ac.be:/home/web1343/public_html/
