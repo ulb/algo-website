@@ -208,7 +208,7 @@ params:
     - name: Aurélien Ooms
       description: Former PhD student
       image: https://ipfs.c.ovfefe.cf/ipfs/QmaLqjQxyBfDfu23Vm2rW9sNpsnsVSToBmAsmgSAzwSqnm
-      webpage: http://homepages.ulb.ac.be/~aureooms
+      webpage: https://research.aurelienooms.be
       keywords: "Computational Complexity: Data Structures, Algorithms, Computational Geometry."
       email: aureooms@ulb.ac.be
 
