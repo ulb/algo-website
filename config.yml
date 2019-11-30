@@ -206,11 +206,14 @@ params:
   alumni:
 
     - name: Aurélien Ooms
-      description: Former PhD student
+      description: >
+        Postdoc at [KU](https://ku.dk/english)'s
+        [BARC center](https://barc.ku.dk)
+        working with [Mikkel Abrahamsen](https://sites.google.com/site/mikkelabrahamsen).
+        Former PhD student.
       image: https://ipfs.c.ovfefe.cf/ipfs/QmaLqjQxyBfDfu23Vm2rW9sNpsnsVSToBmAsmgSAzwSqnm
       webpage: https://research.aurelienooms.be
       keywords: "Computational Complexity: Data Structures, Algorithms, Computational Geometry."
-      email: aureooms@ulb.ac.be
 
 
     - name: Krystal Guo
