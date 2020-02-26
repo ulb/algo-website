@@ -170,13 +170,25 @@ params:
       office: 2.O8.214
       email: gkoumout@ulb.ac.be
 
-    - name: Yann Barsamian
-      description: Postdoc
-      image: https://ipfs.c.ovfefe.cf/ipfs/QmbVNsrf6qv6gHshqWKnKuxVE7Sg8u7r5gzgpKKAGiEQDj
-      webpage: https://barsamian.am
+    - name: Sujoy Bhore
+      webpage: https://lbgi.fr/~pirot
+      image: https://lh3.googleusercontent.com/-ArVyab7atrtg2OLnJE0yw0hbl-UePsdUuEZenLWXBEAWK0gNbA1tudIoTY2IGuJdDK56M2rj-tVvHzv9LZ9aJXYHy4Hspc5uQdzItF71NqPSw4TRy0=w1280
+      office: 2.O8.214
+      description: Future Postdoc
 
+    - name: Pilar Cano
+      webpage: https://mat-web.upc.edu/people/m.pilar.cano/
+      image: img/Photo_Pilar_Cano.jpg
+      webpage: https://sites.google.com/view/homepage-of-sujoy-bhore/home
+      office: 2.O8.214
+      description: Future Postdoc
 
     # PhD students
+
+
+    - name: Sarah Van Bogaert
+      description: PhD student
+      image: img/sarah.jpg
 
     - name: Carole Muller
       description: PhD student (Math Department)
@@ -185,13 +197,6 @@ params:
 
     # Interns
 
-    - name: Leo Valque
-      description: Intern
-
-    - name: François Pitois
-      description: Intern
-      image: https://perso.ens-lyon.fr/francois.pitois/portrait.jpg
-      email: francois (dot) pitois (at) ens-lyon (dot) fr
 
     # External members
 
@@ -214,6 +219,22 @@ params:
       image: https://ipfs.c.ovfefe.cf/ipfs/QmaLqjQxyBfDfu23Vm2rW9sNpsnsVSToBmAsmgSAzwSqnm
       webpage: https://research.aurelienooms.be
       keywords: "Computational Complexity: Data Structures, Algorithms, Computational Geometry."
+
+
+    - name: Leo Valque
+      description: Former Intern
+
+    - name: François Pitois
+      description: Former Intern
+      image: https://perso.ens-lyon.fr/francois.pitois/portrait.jpg
+      email: francois (dot) pitois (at) ens-lyon (dot) fr
+
+
+    - name: Yann Barsamian
+      description: Former Postdoc
+      image: https://ipfs.c.ovfefe.cf/ipfs/QmbVNsrf6qv6gHshqWKnKuxVE7Sg8u7r5gzgpKKAGiEQDj
+      webpage: https://barsamian.am
+
 
 
     - name: Krystal Guo
