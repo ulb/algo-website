@@ -172,14 +172,12 @@ params:
 
     - name: Sujoy Bhore
       webpage: https://lbgi.fr/~pirot
-      image: https://lh3.googleusercontent.com/-ArVyab7atrtg2OLnJE0yw0hbl-UePsdUuEZenLWXBEAWK0gNbA1tudIoTY2IGuJdDK56M2rj-tVvHzv9LZ9aJXYHy4Hspc5uQdzItF71NqPSw4TRy0=w1280
-      office: 2.O8.214
-      description: Future Postdoc
+      image: img/bhore.jpg
+      webpage: https://sites.google.com/view/homepage-of-sujoy-bhore/home
 
     - name: Pilar Cano
       webpage: https://mat-web.upc.edu/people/m.pilar.cano/
       image: img/Photo_Pilar_Cano.jpg
-      webpage: https://sites.google.com/view/homepage-of-sujoy-bhore/home
       office: 2.O8.214
       description: Future Postdoc
 
