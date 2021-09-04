@@ -98,7 +98,7 @@ params:
     # Permanent staff
 
     - name: Jean Cardinal
-      image: https://ipfs.c.ovfefe.cf/ipfs/QmQbyGB3eLReZQh7UeXNFRxgYAfUjrPd36q8QK7MSJta97
+      image: /img/team/jean-cardinal.jpg
       webpage: http://homepages.ulb.ac.be/~jcardin
       description: Professor
       keywords: Discrete and computational geometry, graphs, information theory.
